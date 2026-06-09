@@ -118,19 +118,35 @@ already demonstrated to survive in this test.
 
 ### Test 1 — Thumbscrew Breaking the Mount
 
-[▶ Watch on YouTube](https://youtube.com/shorts/VWGPoBqszFU?feature=share){ .md-button }
-
 Shows the mount being tightened to destruction in real time — crack initiation at the thumbscrew
 hole, propagation through the side wall, and the final punch-through. The pole channel and cradle
 body remain intact throughout.
 
-### Test 2 — Broken Mount Still Holds
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/VWGPoBqszFU"
+    title="OpenPoleMount — Test 1: Thumbscrew Breaking the Mount"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
-[▶ Watch on YouTube](https://youtube.com/shorts/n9Gnvz9QdF8?feature=share){ .md-button }
+### Test 2 — Broken Mount Still Holds
 
 After the side wall failure in Test 1, the broken mount is left on the pole and loaded.
 Despite the thumbscrew hole being completely torn open, the pole channel geometry maintains grip —
 the mount does not slide or release. Confirms the design's safe, residual-hold failure mode.
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/n9Gnvz9QdF8"
+    title="OpenPoleMount — Test 2: Broken Mount Still Holds"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
