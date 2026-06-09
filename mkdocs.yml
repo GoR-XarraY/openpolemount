@@ -32,6 +32,7 @@ nav:
   - Home: index.md
   - Print Guide: print-settings.md
   - Assembly: assembly.md
+  - Strength Testing: testing.md
   - Safety & Disclaimer: safety.md
   - Contribute: contributing.md
   - Accessories: accessories/index.md
