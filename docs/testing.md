@@ -116,9 +116,18 @@ already demonstrated to survive in this test.
 
 ## Videos
 
-The two test videos (~58 MB and ~130 MB) are too large for GitHub.
-They will be linked here once uploaded to YouTube.
-[Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if you need access before then.
+### Test 1 — Thumbscrew Breaking the Mount
+
+[▶ Watch on YouTube](https://youtube.com/shorts/VWGPoBqszFU){ .md-button }
+
+Shows the mount being tightened to destruction in real time — crack initiation at the thumbscrew
+hole, propagation through the side wall, and the final punch-through. The pole channel and cradle
+body remain intact throughout.
+
+### Test 2 — Broken Mount Still Holds
+
+*(Upload pending — ~130 MB)*  
+[Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if you need the video before it's uploaded.
 
 ---
 
