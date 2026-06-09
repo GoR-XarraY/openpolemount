@@ -15,30 +15,39 @@ Download from [GitHub Releases](https://github.com/GoR-XarraY/openpolemount/rele
 | `OpenPoleMount_IV-Pole_v1.stl` | IV pole cradle | 1 |
 | `thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment | 1 |
 
-## Material Selection
+## Material
 
-| Material | Suitability | Notes |
-|---|---|---|
-| **PETG** | ✅ Minimum recommended | Good strength, easy to print, moisture-resistant |
-| **ASA** | ✅ Best choice | UV and chemical resistant, better for humid environments |
-| **ABS** | ✅ Good | Strong, but prone to warping during print |
-| PLA | ⚠️ Not recommended | Lower impact strength, degrades in heat and humidity |
-| TPU / Flexible | ❌ Not suitable | Cannot support structural load |
+**PLA** is the tested and validated material for this design. Settings on this page
+are based on PLA testing. Other materials (PETG, ASA, ABS) have not yet been tested —
+if you print in another material, please share your results by
+[opening an issue](https://github.com/GoR-XarraY/openpolemount/issues).
 
-## Recommended Print Settings
+| Material | Status |
+|---|---|
+| **PLA** | ✅ Tested — use the settings below |
+| PETG / ASA / ABS | ⚠️ Not yet tested — proceed at your own risk |
+| TPU / Flexible | ❌ Not suitable — cannot support structural load |
+
+## Recommended Print Settings (PLA, tested)
 
 | Setting | Cradle | Thumbscrew |
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
-| **Infill** | **≥40%** (gyroid or grid) | **≥40%** |
-| Perimeters / walls | ≥4 | ≥4 |
-| Top/bottom layers | ≥5 | ≥5 |
+| **Wall thickness** | **2 mm minimum** | **2 mm minimum** |
+| **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
+| **Infill** | **15% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **15% minimum** |
+| Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
 | Supports | Required (see below) | Not needed |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
-!!! danger "Minimum Infill: 40%"
-    Do not print load-bearing parts below 40% infill. This mount holds medical
-    equipment over a patient. When in doubt, print denser.
+!!! danger "Wall and Infill Minimums Are Safety-Critical"
+    Testing has shown that the mount **can crack if over-tightened** when walls
+    or infill are below these minimums. The 2 mm wall + 2 mm top/bottom + 15%
+    non-concentric infill combination was validated in initial testing.
+
+    **Do not use concentric, lines, or grid infill patterns** — they do not provide
+    the same resistance to the stress concentration from the thumbscrew.
+    3D honeycomb is the preferred pattern.
 
 ## Part Orientation
 
@@ -78,3 +87,8 @@ Run through this checklist before mounting any medical equipment:
 - [ ] Pump seats fully without rocking or side-to-side movement
 
 If any check fails, **do not use the part** — reprint with corrected settings.
+
+!!! warning "Over-Tightening Risk"
+    Once mounted, tighten the thumbscrew hand-tight plus one quarter-turn only.
+    Over-tightening is the primary cause of cradle failure even in correctly
+    printed parts. See the [Assembly Guide](assembly.md) for tightening instructions.
