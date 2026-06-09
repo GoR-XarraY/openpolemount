@@ -118,7 +118,7 @@ already demonstrated to survive in this test.
 
 ### Test 1 — Thumbscrew Breaking the Mount
 
-[▶ Watch on YouTube](https://youtube.com/shorts/VWGPoBqszFU){ .md-button }
+[▶ Watch on YouTube](https://youtube.com/shorts/VWGPoBqszFU?feature=share){ .md-button }
 
 Shows the mount being tightened to destruction in real time — crack initiation at the thumbscrew
 hole, propagation through the side wall, and the final punch-through. The pole channel and cradle
@@ -126,8 +126,11 @@ body remain intact throughout.
 
 ### Test 2 — Broken Mount Still Holds
 
-*(Upload pending — ~130 MB)*  
-[Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if you need the video before it's uploaded.
+[▶ Watch on YouTube](https://youtube.com/shorts/n9Gnvz9QdF8?feature=share){ .md-button }
+
+After the side wall failure in Test 1, the broken mount is left on the pole and loaded.
+Despite the thumbscrew hole being completely torn open, the pole channel geometry maintains grip —
+the mount does not slide or release. Confirms the design's safe, residual-hold failure mode.
 
 ---
 
