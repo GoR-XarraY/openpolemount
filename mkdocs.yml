@@ -1,0 +1,59 @@
+site_name: OpenPoleMount
+site_url: https://openpolemount.com
+site_description: Open source 3D-printable IV pole mounting system for home healthcare
+site_author: OpenPoleMount Contributors
+repo_url: https://github.com/GoR-XarraY/openpolemount
+repo_name: GoR-XarraY/openpolemount
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.top
+    - navigation.instant
+    - search.highlight
+    - content.action.edit
+    - content.tooltips
+
+nav:
+  - Home: index.md
+  - Print Guide: print-settings.md
+  - Assembly: assembly.md
+  - Safety & Disclaimer: safety.md
+  - Contribute: contributing.md
+  - Accessories: accessories/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GoR-XarraY/openpolemount
+      name: GitHub
+
+copyright: >
+  Copyright &copy; 2026 OpenPoleMount Contributors —
+  Hardware: <a href="https://cern-ohl.web.cern.ch/">CERN-OHL-W-2.0</a> |
+  Docs: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>
