@@ -42,16 +42,16 @@ The **pole channel and cradle body remain completely intact throughout.** Only t
 side wall at the thumbscrew hole fails, and only under sustained force that no
 user would apply in normal operation.
 
-![Test setup — mount on rig before failure](../images/testing/test-01-setup.jpg)
+![Test setup — mount on rig before failure](images/testing/test-01-setup.jpg)
 *Mount on test rig before failure — chrome rod through pole channel, thumbscrew being tightened*
 
-![Crack propagating during failure](../images/testing/test-03-cradle-on-pole.jpg)
+![Crack propagating during failure](images/testing/test-03-cradle-on-pole.jpg)
 *Crack initiating and propagating at the thumbscrew hole during extreme over-tightening*
 
-![Close-up of failure point](../images/testing/test-04-thumbscrew-detail.jpg)
+![Close-up of failure point](images/testing/test-04-thumbscrew-detail.jpg)
 *Thumbscrew engagement zone — close-up showing wall stress during tightening*
 
-![Final failure state](../images/testing/test-02-failure-mode.jpg)
+![Final failure state](images/testing/test-02-failure-mode.jpg)
 *End state: thumbscrew has punched through the side wall. Pole channel intact.*
 
 ---
