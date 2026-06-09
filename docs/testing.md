@@ -2,104 +2,126 @@
 
 ## Summary
 
-OpenPoleMount v1 was tested to destruction on 2026-06-09. **The mount never failed under load.**
-The only failure occurred during deliberate extreme over-tightening of the thumbscrew far beyond
-any normal or reasonable use — confirming that the design has a safe, predictable failure mode
-rather than a sudden structural collapse.
+OpenPoleMount v1 was tested to destruction on 2026-06-09 using a deliberately under-spec print.
+**The mount never failed under load.** When pushed far beyond any realistic use to find the
+failure point, the failure mode was safe and predictable — and crucially, **the broken mount
+continued to hold on the pole after failure.**
 
 ---
 
-## Test Conditions
+## Test Print Settings
 
-| Parameter | Value |
-|---|---|
-| Material | Standard PLA |
-| Wall count | 4 layers (below 2 mm minimum recommendation) |
-| Top/bottom | 1 mm (below 2 mm minimum recommendation) |
-| Infill | 15%, non-structural pattern |
-| Infill type | Non-concentric (below 3D honeycomb recommendation) |
+These settings are **intentionally below the recommended minimums** — the goal was to find
+the failure point of a worst-case print.
 
-These settings are **intentionally below the recommended minimums** in the [Print Guide](print-settings.md).
-The test was designed to find the failure point of an under-spec print.
-
----
-
-## Results
-
-**The mount held.** Under all normal use conditions — including hanging load, lateral force,
-and firm hand-tightening — the print showed no failure, deformation, or slippage.
-
-Failure occurred only when the thumbscrew was driven far beyond the point any user
-would reach by hand in normal operation.
-
-### Failure Mode
-
-When pushed to destruction by extreme over-tightening, the **thumbscrew punched through
-the side wall of the cradle** at the thumbscrew hole. The cradle body and pole channel
-remained intact. This is the expected and acceptable failure mode:
-
-- Failure is visible and obvious — the part doesn't suddenly drop
-- The pump would remain in the cradle pocket even after this failure
-- A user tightening by hand cannot reach this force level with normal effort
-
-![Test setup on rig](../images/testing/test-01-setup.jpg)
-*Test setup: mount clamped to test rig with chrome rod through pole channel*
-
-![Thumbscrew detail during test](../images/testing/test-04-thumbscrew-detail.jpg)
-*Thumbscrew engagement detail during load testing*
-
-![Cradle on pole during test](../images/testing/test-03-cradle-on-pole.jpg)
-*Mount on pole under load — no deformation or slippage*
-
-![Failure mode: thumbscrew punched through wall](../images/testing/test-02-failure-mode.jpg)
-*Destruction result: thumbscrew tore through the side wall at extreme over-tightening.
-Cradle body and pole channel remained intact.*
+| Parameter | Test value | Recommended minimum |
+|---|---|---|
+| Material | Standard PLA | PLA |
+| Wall count | 4 layers | 2 mm |
+| Top/bottom | 1 mm | 2 mm |
+| Infill | 15%, non-structural pattern | 15%, 3D honeycomb |
 
 ---
 
-## What This Means for Print Settings
+## Test 1 — Thumbscrew Over-Tightening to Failure
+
+**Video:** `PXL_20260609_072444167.mp4`
+
+The mount is clamped to a test rig with a chrome rod through the pole channel.
+The thumbscrew is progressively tightened far beyond the hand-tight + quarter-turn
+instruction — sustaining deliberate force well past any normal use.
+
+The video shows the failure sequence in real time:
+
+1. The mount holds firmly through all normal tightening levels
+2. Continued extreme force initiates a crack at the thumbscrew hole in the side wall
+3. The crack propagates through the wall as over-tightening continues
+4. The thumbscrew punches through the side wall at the point of failure
+
+The **pole channel and cradle body remain completely intact throughout.** Only the
+side wall at the thumbscrew hole fails, and only under sustained force that no
+user would apply in normal operation.
+
+![Test setup — mount on rig before failure](../images/testing/test-01-setup.jpg)
+*Mount on test rig before failure — chrome rod through pole channel, thumbscrew being tightened*
+
+![Crack propagating during failure](../images/testing/test-03-cradle-on-pole.jpg)
+*Crack initiating and propagating at the thumbscrew hole during extreme over-tightening*
+
+![Close-up of failure point](../images/testing/test-04-thumbscrew-detail.jpg)
+*Thumbscrew engagement zone — close-up showing wall stress during tightening*
+
+![Final failure state](../images/testing/test-02-failure-mode.jpg)
+*End state: thumbscrew has punched through the side wall. Pole channel intact.*
+
+---
+
+## Test 2 — Broken Mount Still Holds
+
+**Video:** `PXL_20260609_072737644.mp4`
+
+After the side wall failure in Test 1, the broken mount was left on the pole and tested
+for continued grip. This is the most important finding of the test session.
+
+**With the thumbscrew hole completely torn open, the mount continued to hold on the pole.**
+
+The video shows the broken cradle being pushed, pulled, and loaded on the pole. Despite
+the visible damage to the side wall, the pole channel geometry maintains grip. The mount
+does not slide or release. A load can still be hung from it.
+
+This demonstrates two critical properties of the design:
+
+1. **Failure is visible and obvious** — a broken mount looks broken. There is no hidden
+   or gradual weakening that could go undetected.
+2. **Failure is not catastrophic** — the broken mount retains residual grip. A pump
+   hanging from a failed mount would not suddenly drop; there would be time to
+   notice and address the problem.
+
+---
+
+## Key Findings
+
+### The design has a generous safety margin
+A deliberately under-spec print — well below recommended minimums — survived all normal
+use conditions without any failure. The recommended settings provide meaningful additional
+margin above even this worst-case baseline.
+
+### The failure mode is safe
+When the mount does fail (under extreme, sustained over-tightening):
+- Failure is localised to the thumbscrew side wall only
+- The pole channel remains intact
+- The failure is immediately visible
+- The mount retains residual grip after failure
+
+### Over-tightening is the only realistic failure path
+Normal hand-tightening cannot reach the force levels required to cause failure.
+The failure in testing required sustained deliberate force far beyond what is needed
+to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](assembly.md).
+
+---
+
+## What This Means for the Recommended Settings
 
 Our [recommended settings](print-settings.md) (2 mm walls, 2 mm top/bottom, 15% 3D honeycomb)
-are deliberately **conservative relative to these tested limits**.
+are conservative relative to these tested limits. The conservatism is intentional:
 
-| Setting | Tested (survived) | Recommended |
-|---|---|---|
-| Wall thickness | 4 layers (~0.8–1.6 mm) | 2 mm |
-| Top/bottom | 1 mm | 2 mm |
-| Infill | 15%, non-structural | 15%, 3D honeycomb or non-concentric |
-| Material | Standard PLA | PLA (tested) |
+- Print quality varies between printers and operators
+- PLA quality varies between brands and batches
+- A 2× wall thickness margin accounts for real-world variation
 
-The recommendations exist because:
-
-1. **Print quality varies** — a well-tuned printer at 4-layer walls may perform like a poorly-tuned printer at 2 mm walls
-2. **Material varies** — bargain PLA has meaningfully lower layer adhesion than quality PLA
-3. **The margin matters for medical-adjacent use** — conservative settings reduce variability
-
-The tested under-spec print surviving gives confidence that the design has a generous safety margin
-when printed at or above recommended settings.
-
----
-
-## Tightening Guidance (Reinforced by Test)
-
-The failure mode makes one thing clear: **over-tightening is the only realistic risk.**
-Normal hand-tightening is safe. The mount can be tightened to destruction deliberately,
-but this requires sustained effort well beyond what's needed to secure the cradle on a pole.
-
-**Correct tightening:** hand-tight + one quarter-turn. The cradle should not slide down the pole under firm push. If it does, tighten slightly more — do not force.
-
-See [Assembly Guide](assembly.md) for full tightening instructions.
+Printing at or above the recommended settings gives significant margin beyond what was
+already demonstrated to survive in this test.
 
 ---
 
 ## Videos
 
-Destruction test videos (too large for GitHub — ~58 MB and ~130 MB) are available on request.
-[Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if you'd like access.
-
-*(Future: video will be linked from YouTube or attached to the release)*
+The two test videos (~58 MB and ~130 MB) are too large for GitHub.
+They will be linked here once uploaded to YouTube.
+[Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if you need access before then.
 
 ---
 
 *Testing conducted by the OpenPoleMount project creator, 2026-06-09.*  
-*This testing is provided for informational purposes. See [Safety & Disclaimer](safety.md).*
+*This testing is provided for informational purposes only and does not constitute*
+*engineering certification or safety approval. See [Safety & Disclaimer](safety.md).*
