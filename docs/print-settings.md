@@ -15,6 +15,13 @@ Download from [GitHub Releases](https://github.com/GoR-XarraY/openpolemount/rele
 | `OpenPoleMount_IV-Pole_v1.stl` | IV pole cradle | 1 |
 | `thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment | 1 |
 
+!!! success "Tested to Destruction (2026-06-09)"
+    An under-spec print (4-layer walls, 1 mm top/bottom, 15% non-structural infill, standard PLA)
+    **never failed under load**. Failure only occurred under deliberate extreme over-tightening —
+    the thumbscrew punched through the side wall, a safe and predictable failure mode.
+    The recommended settings below are conservative relative to this tested limit.
+    [See full testing results →](testing.md)
+
 ## Material
 
 **PLA** is the tested and validated material for this design. Settings on this page
