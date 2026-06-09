@@ -37,6 +37,7 @@ nav:
   - Safety & Disclaimer: safety.md
   - Contribute: contributing.md
   - Accessories: accessories/index.md
+  - License & Commercial Use: license.md
 
 plugins:
   - search
