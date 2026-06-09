@@ -2,6 +2,8 @@
 
 **The first fully 3D-printable IV pole mounting cradle for the Curlin CMS6000 infusion pump.**
 
+![OpenPoleMount IV Pole Cradle v1 — 3D render](images/hero.png)
+
 ---
 
 !!! warning "Reference Design — Not a Medical Device"
