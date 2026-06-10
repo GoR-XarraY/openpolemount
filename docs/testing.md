@@ -102,7 +102,7 @@ to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](asse
 
 ## What This Means for the Recommended Settings
 
-Our [recommended settings](print-settings.md) (2 mm walls, 2 mm top/bottom, 15% 3D honeycomb)
+Our [recommended settings](print-settings.md) (6 walls, 2 mm top/bottom, 35% 3D honeycomb)
 are conservative relative to these tested limits. The conservatism is intentional:
 
 - Print quality varies between printers and operators
