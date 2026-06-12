@@ -44,7 +44,7 @@ if you print in another material, please share your results by
 | **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
 | **Infill** | **35% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **35% minimum** |
 | Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
-| Supports | Required (see below) | Not needed |
+| Supports | None needed (optional — see below) | None needed (optional — helps threads print cleaner) |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
 !!! danger "Wall and Infill Minimums Are Safety-Critical"
@@ -66,12 +66,10 @@ pull-out and shear strength.
 
 ## Support Settings
 
-The cradle requires supports under the pump cradle pocket:
+Neither part requires supports. Supports are optional on both:
 
-- Support type: Tree or Normal (both work well)
-- Support angle threshold: 45°
-- Interface layers: 2–3 (makes clean removal easier)
-- Support interface material: same as main material
+- **Cradle:** supports are not required. If you use them, place under the pump cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
+- **Thumbscrew:** supports are not required. Adding them under the thread overhangs can improve thread definition, but prints cleanly without.
 
 ## Post-Processing
 
