@@ -19,6 +19,15 @@ image: images/iv-pole-v2/v2-og-image.jpg
     Both versions use the same thumbscrew (`thumbscrew_v14_flat_Thandle.stl`) and have
     identical print settings, assembly steps, and strength characteristics.
 
+## Printing Footage
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+  <iframe title="OpenPoleMount - I.V. Pole Cradle V2" width="315" height="560"
+    src="https://teleportpod.com/portal/32850c5d-072b-4768-982d-532d3b36d325?item=5407"
+    frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 ## Installed Photos
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">

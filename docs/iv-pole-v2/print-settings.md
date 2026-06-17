@@ -78,6 +78,15 @@ Neither part requires supports. Supports are optional on both:
 - **Cradle:** supports are not required. If you use them, place under the pump cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
 - **Thumbscrew:** supports are not required. If enabled, the slicer typically places a single layer under the part — this helps hold it in place during printing. A brim works equally well for this purpose.
 
+## Printing Footage
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+  <iframe title="OpenPoleMount - I.V. Pole Cradle V2" width="315" height="560"
+    src="https://teleportpod.com/portal/32850c5d-072b-4768-982d-532d3b36d325?item=5407"
+    frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 ## Post-Processing
 
 After printing:
