@@ -124,7 +124,7 @@ body remain intact throughout.
 
 <div style="display:flex;justify-content:center;margin:1.5rem 0;">
   <iframe width="315" height="560"
-    src="https://www.youtube.com/embed/VWGPoBqszFU"
+    src="https://www.youtube.com/embed/OXBP-LRRCT0"
     title="OpenPoleMount — Test 1: Thumbscrew Breaking the Mount"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -140,7 +140,7 @@ the mount does not slide or release. Confirms the design's safe, residual-hold f
 
 <div style="display:flex;justify-content:center;margin:1.5rem 0;">
   <iframe width="315" height="560"
-    src="https://www.youtube.com/embed/n9Gnvz9QdF8"
+    src="https://www.youtube.com/embed/5i2bdpntpkQ"
     title="OpenPoleMount — Test 2: Broken Mount Still Holds"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

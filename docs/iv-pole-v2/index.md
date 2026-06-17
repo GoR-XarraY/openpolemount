@@ -22,9 +22,12 @@ image: images/iv-pole-v2/v2-og-image.jpg
 ## Printing Footage
 
 <div style="display:flex;justify-content:center;margin:1.5rem 0;">
-  <iframe title="OpenPoleMount - I.V. Pole Cradle V2" width="500" height="1500"
-    src="https://teleportpod.com/portal/32850c5d-072b-4768-982d-532d3b36d325?item=5407"
-    frameborder="0" allowfullscreen style="max-width:100%;">
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/z05xgJhH_BQ"
+    title="OpenPoleMount IV Pole V2 — printing the first one"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
   </iframe>
 </div>
 
