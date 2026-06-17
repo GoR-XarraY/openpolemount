@@ -2,7 +2,7 @@
 
 **The first fully 3D-printable IV pole mounting cradle for the Curlin CMS6000 infusion pump.**
 
-![OpenPoleMount IV Pole Cradle v1 — 3D render](images/hero.png)
+![OpenPoleMount IV Pole Cradle — 3D render](images/hero.png)
 
 ---
 
@@ -29,13 +29,24 @@ a universal standard for any accessory on a standard home IV pole.
 
 ## Download
 
-[Download STL Files (v1.0.0)](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
+[Download STL Files (v1.1.0)](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
 [View on GitHub](https://github.com/GoR-XarraY/openpolemount){ .md-button }
+
+## Available Variants
+
+Two cradle shapes are available — choose whichever you prefer. Both use the same
+thumbscrew, the same print settings, and the same assembly process.
+
+| Variant | File | Shape |
+|---|---|---|
+| **IV Pole Mount v1** | `OpenPoleMount_IV-Pole_v1.stl` | Original shape — [Print Guide →](print-settings.md) |
+| **IV Pole Mount v2** | `OpenPoleMount_IV-Pole_v2.stl` | Revised exterior shape — [Print Guide →](iv-pole-v2/print-settings.md) |
+| **Thumbscrew** (both variants) | `thumbscrew_v14_flat_Thandle.stl` | T-handle, flat grip |
 
 ## Getting Started
 
-1. **[Print Guide →](print-settings.md)** — material, infill, supports, orientation
-2. **[Assembly →](assembly.md)** — step-by-step mounting instructions
+1. **Choose your shape** — [v1](print-settings.md) or [v2](iv-pole-v2/print-settings.md)
+2. **[Assembly →](assembly.md)** — step-by-step mounting instructions (same for both variants)
 3. **[Safety & Disclaimer →](safety.md)** — read before use
 
 ## Designed For

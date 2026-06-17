@@ -31,9 +31,14 @@ theme:
 
 nav:
   - Home: index.md
-  - Print Guide: print-settings.md
-  - Assembly: assembly.md
-  - Strength Testing: testing.md
+  - IV Pole Mount v1:
+    - Print Guide: print-settings.md
+    - Assembly: assembly.md
+    - Strength Testing: testing.md
+  - IV Pole Mount v2:
+    - Overview & Photos: iv-pole-v2/index.md
+    - Print Guide: iv-pole-v2/print-settings.md
+    - Assembly: iv-pole-v2/assembly.md
   - Safety & Disclaimer: safety.md
   - Contribute: contributing.md
   - Accessories: accessories/index.md
