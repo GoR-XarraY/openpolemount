@@ -49,14 +49,20 @@ image: images/iv-pole-v2/v2-og-image.jpg
   </div>
 </div>
 
-## Download
+---
 
-[Download STL Files](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
-
-| File | Purpose |
-|---|---|
-| `OpenPoleMount_IV-Pole_v2.stl` | V2 cradle body |
-| `thumbscrew_v14_flat_Thandle.stl` | Thumbscrew — same as v1 |
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin:2rem 0;">
+  <div style="padding:1.5rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid var(--md-primary-fg-color);">
+    <div style="font-weight:700;margin-bottom:0.5rem;">🖨️ Print It Yourself — Free</div>
+    <div style="font-size:0.875rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">Download and print on any FDM printer.</div>
+    <a href="print-settings.md" style="display:inline-block;padding:0.4rem 1rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.875rem;font-weight:600;">Print Guide →</a>
+  </div>
+  <div style="padding:1.5rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid #2e7d32;">
+    <div style="font-weight:700;margin-bottom:0.5rem;">📦 Order Pre-Printed — $25 + shipping</div>
+    <div style="font-size:0.875rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">Get it printed and shipped — no printer needed.</div>
+    <a href="../order.md" style="display:inline-block;padding:0.4rem 1rem;background:#2e7d32;color:white;border-radius:4px;text-decoration:none;font-size:0.875rem;font-weight:600;">Order Now →</a>
+  </div>
+</div>
 
 ## Next Steps
 

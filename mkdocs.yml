@@ -31,6 +31,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Order a Print ($25): order.md
   - IV Pole Mount v1:
     - Print Guide: print-settings.md
     - Assembly: assembly.md

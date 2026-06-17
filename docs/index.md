@@ -27,7 +27,24 @@ An open-source 3D-printable cradle that any maker can print and any patient
 can assemble. The mounting section is designed as the **OpenPoleMount block** —
 a universal standard for any accessory on a standard home IV pole.
 
-## Download
+---
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin:2rem 0;">
+  <div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid var(--md-primary-fg-color);">
+    <div style="font-size:1.1rem;font-weight:700;margin-bottom:0.5rem;">🖨️ Print It Yourself — Free</div>
+    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">Download the STL files and print on any FDM printer. PLA, 6 walls, 35% infill.</div>
+    <a href="iv-pole-v2/print-settings.md" style="display:inline-block;padding:0.5rem 1.25rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Print Guide →</a>
+  </div>
+  <div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid #2e7d32;">
+    <div style="font-size:1.1rem;font-weight:700;margin-bottom:0.5rem;">📦 Order Pre-Printed — $25 + shipping</div>
+    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">No printer needed. Get the V2 cradle + thumbscrew printed and shipped to you.</div>
+    <a href="order.md" style="display:inline-block;padding:0.5rem 1.25rem;background:#2e7d32;color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Order Now →</a>
+  </div>
+</div>
+
+---
+
+## Download STL Files
 
 [Download STL Files (v1.1.0)](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
 [View on GitHub](https://github.com/GoR-XarraY/openpolemount){ .md-button }
@@ -45,9 +62,10 @@ thumbscrew, the same print settings, and the same assembly process.
 
 ## Getting Started
 
-1. **Choose your shape** — [v1](print-settings.md) or [v2](iv-pole-v2/print-settings.md)
-2. **[Assembly →](assembly.md)** — step-by-step mounting instructions (same for both variants)
-3. **[Safety & Disclaimer →](safety.md)** — read before use
+1. **[Order pre-printed ($25 + shipping) →](order.md)** — no printer needed
+2. **Choose your shape** — [v1](print-settings.md) or [v2](iv-pole-v2/index.md)
+3. **[Assembly →](assembly.md)** — step-by-step mounting instructions (same for both variants)
+4. **[Safety & Disclaimer →](safety.md)** — read before use
 
 ## Designed For
 
