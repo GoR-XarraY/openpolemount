@@ -52,9 +52,6 @@ Get the IV Pole Mount v2 printed and shipped directly to your door — no printe
 | Cradle body | `OpenPoleMount_IV-Pole_v2.stl` — v2 shape |
 | Thumbscrew | `thumbscrew_v14_flat_Thandle.stl` — T-handle grip |
 | Material | PLA |
-| Wall count | 6 walls (safety minimum) |
-| Infill | 35% 3D honeycomb |
-| Top/bottom | 2 mm |
 
 The parts are printed to the [recommended safety minimums](iv-pole-v2/print-settings.md) documented on this site.
 
