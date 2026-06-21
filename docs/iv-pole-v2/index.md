@@ -64,29 +64,24 @@ image: images/iv-pole-v2/v2-og-image.jpg
     <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Curlin CMS6000 — straight-on, keypad fully visible</p>
   </div>
   <div>
-    <a href="../images/iv-pole-v2/v2-curlin-side.jpg"><img src="../images/iv-pole-v2/v2-curlin-side.jpg" alt="V2 cradle with Curlin pump — side view" style="width:100%;border-radius:4px;"></a>
+    <a href="../images/iv-pole-v2/v2-curlin-side.jpg"><img src="../images/iv-pole-v2/v2-curlin-side.jpg" alt="Curlin CMS6000 in V2 cradle — side view" style="width:100%;border-radius:4px;"></a>
     <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Side — cradle body and pole channel visible</p>
   </div>
   <div>
-    <a href="../images/iv-pole-v2/v2-curlin-top.jpg"><img src="../images/iv-pole-v2/v2-curlin-top.jpg" alt="Curlin in V2 cradle — overhead angle" style="width:100%;border-radius:4px;"></a>
+    <a href="../images/iv-pole-v2/v2-curlin-top.jpg"><img src="../images/iv-pole-v2/v2-curlin-top.jpg" alt="Curlin CMS6000 in V2 cradle — overhead angle" style="width:100%;border-radius:4px;"></a>
     <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Overhead angle — pump seated in cradle pocket</p>
   </div>
-</div>
-
-### MOOG Pump Compatibility
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
   <div>
-    <a href="../images/iv-pole-v2/v2-moog-front-left.jpg"><img src="../images/iv-pole-v2/v2-moog-front-left.jpg" alt="MOOG pump in V2 cradle — front-left" style="width:100%;border-radius:4px;"></a>
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — front-left, thumbscrew engaged</p>
+    <a href="../images/iv-pole-v2/v2-curlin-back-left.jpg"><img src="../images/iv-pole-v2/v2-curlin-back-left.jpg" alt="Curlin CMS6000 in V2 cradle — back-left view" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Back-left — rear of pump, thumbscrew engaged</p>
   </div>
   <div>
-    <a href="../images/iv-pole-v2/v2-moog-front-right.jpg"><img src="../images/iv-pole-v2/v2-moog-front-right.jpg" alt="MOOG pump in V2 cradle — front-right" style="width:100%;border-radius:4px;"></a>
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — front-right angle</p>
+    <a href="../images/iv-pole-v2/v2-curlin-back-right.jpg"><img src="../images/iv-pole-v2/v2-curlin-back-right.jpg" alt="Curlin CMS6000 in V2 cradle — back-right view" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Back-right — pump seated, pole channel at right</p>
   </div>
   <div>
-    <a href="../images/iv-pole-v2/v2-moog-top.jpg"><img src="../images/iv-pole-v2/v2-moog-top.jpg" alt="MOOG pump in V2 cradle — top-down" style="width:100%;border-radius:4px;"></a>
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — top-down, pump seated securely</p>
+    <a href="../images/iv-pole-v2/v2-curlin-top2.jpg"><img src="../images/iv-pole-v2/v2-curlin-top2.jpg" alt="Curlin CMS6000 in V2 cradle — top-down" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Top-down — pump fully seated in cradle pocket</p>
   </div>
 </div>
 
