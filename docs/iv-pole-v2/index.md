@@ -52,6 +52,69 @@ image: images/iv-pole-v2/v2-og-image.jpg
   </div>
 </div>
 
+### Curlin CMS6000 — More Views
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v2/v2-curlin-front.jpg"><img src="../images/iv-pole-v2/v2-curlin-front.jpg" alt="Curlin CMS6000 front in V2 cradle" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Curlin CMS6000 — front view, pump fully seated</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-curlin-straight.jpg"><img src="../images/iv-pole-v2/v2-curlin-straight.jpg" alt="Curlin CMS6000 straight-on in V2 cradle" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Curlin CMS6000 — straight-on, keypad fully visible</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-curlin-side.jpg"><img src="../images/iv-pole-v2/v2-curlin-side.jpg" alt="V2 cradle with Curlin pump — side view" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Side — cradle body and pole channel visible</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-curlin-top.jpg"><img src="../images/iv-pole-v2/v2-curlin-top.jpg" alt="Curlin in V2 cradle — overhead angle" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Overhead angle — pump seated in cradle pocket</p>
+  </div>
+</div>
+
+### MOOG Pump Compatibility
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v2/v2-moog-front-left.jpg"><img src="../images/iv-pole-v2/v2-moog-front-left.jpg" alt="MOOG pump in V2 cradle — front-left" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — front-left, thumbscrew engaged</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-moog-front-right.jpg"><img src="../images/iv-pole-v2/v2-moog-front-right.jpg" alt="MOOG pump in V2 cradle — front-right" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — front-right angle</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-moog-top.jpg"><img src="../images/iv-pole-v2/v2-moog-top.jpg" alt="MOOG pump in V2 cradle — top-down" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">MOOG pump — top-down, pump seated securely</p>
+  </div>
+</div>
+
+### Cradle Detail — Empty
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v2/v2-empty-front.jpg"><img src="../images/iv-pole-v2/v2-empty-front.jpg" alt="V2 cradle empty — front view" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Empty cradle — open front shows the pocket shape</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-empty-side.jpg"><img src="../images/iv-pole-v2/v2-empty-side.jpg" alt="V2 cradle empty — side with thumbscrew" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Side — thumbscrew threaded through pole channel</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-empty-top.jpg"><img src="../images/iv-pole-v2/v2-empty-top.jpg" alt="V2 cradle empty — top-down" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Top-down — "I.V. Pole v2" label embossed on body</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-empty-rear.jpg"><img src="../images/iv-pole-v2/v2-empty-rear.jpg" alt="V2 cradle empty — rear view" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear — U-shaped pole channel and cradle walls</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v2/v2-channel-detail.jpg"><img src="../images/iv-pole-v2/v2-channel-detail.jpg" alt="V2 pole channel and thumbscrew close-up" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Channel detail — thumbscrew seats flush against pole</p>
+  </div>
+</div>
+
 ---
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin:2rem 0;">
