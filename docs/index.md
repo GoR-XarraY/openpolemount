@@ -56,13 +56,16 @@ yourself is the primary path — it's free, and you control the material and qua
     Download the v2 STL files and print on any FDM printer. Tested in PLA. Two parts:
     the cradle body and the T-handle thumbscrew — no extra hardware needed.
   </div>
-  <a href="iv-pole-v2/print-settings.md" style="display:inline-block;padding:0.6rem 1.5rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:1rem;font-weight:700;">Print Guide (v2) →</a>
+  <a href="iv-pole-v2/print-settings/" style="display:inline-block;padding:0.6rem 1.5rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:1rem;font-weight:700;">Print Guide (v2) →</a>
 </div>
 
-<div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1.25rem 0;padding-left:0.25rem;">
-  No printer or maker nearby? You can have the v2 cradle printed on demand and shipped
-  to you, at the cost of printing — this is a fallback, not the point of the project.
-  <a href="order.md">No printer? Order one →</a>
+<div style="padding:1.25rem 1.5rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid #888;margin:1rem 0;">
+  <div style="font-size:1rem;font-weight:700;margin-bottom:0.35rem;">📦 No printer nearby? Order a print.</div>
+  <div style="font-size:0.875rem;color:var(--md-default-fg-color--light);margin-bottom:0.85rem;">
+    The v2 cradle + thumbscrew printed and shipped at cost via <strong>Slant 3D / Teleport</strong>.
+    No profit — this is a fallback for people without printer access.
+  </div>
+  <a href="order/" style="display:inline-block;padding:0.45rem 1.1rem;background:#555;color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Order a print →</a>
 </div>
 
 ## Download STL Files

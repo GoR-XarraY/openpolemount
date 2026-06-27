@@ -118,12 +118,12 @@ image: images/iv-pole-v2/v2-og-image.jpg
 <div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:5px solid var(--md-primary-fg-color);margin:2rem 0;">
   <div style="font-size:1.2rem;font-weight:800;margin-bottom:0.5rem;">🖨️ Print it yourself — free & open source</div>
   <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1.25rem;">Download the v2 STL files and print on any FDM printer. This is the whole point of the project.</div>
-  <a href="print-settings.md" style="display:inline-block;padding:0.55rem 1.4rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.95rem;font-weight:700;">Print Guide →</a>
+  <a href="../iv-pole-v2/print-settings/" style="display:inline-block;padding:0.55rem 1.4rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.95rem;font-weight:700;">Print Guide →</a>
 </div>
 
 <div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1rem 0;">
   No printer or maker nearby? You can have v2 printed on demand and shipped at cost via
-  Slant 3D / Teleport — a fallback, not the goal. <a href="../order.md">No printer? Order one →</a>
+  Slant 3D / Teleport — a fallback, not the goal. <a href="../order/">No printer? Order one →</a>
 </div>
 
 ## Next Steps
