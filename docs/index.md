@@ -1,10 +1,17 @@
 # OpenPoleMount
 
-**The first fully 3D-printable IV pole mounting cradle for the Curlin CMS6000 infusion pump.**
+**An open-source, 3D-printable IV pole cradle for the Curlin CMS6000 infusion pump.**
 
-![OpenPoleMount IV Pole Cradle — 3D render](images/hero.png)
+[![Curlin CMS6000 seated in the OpenPoleMount v2 cradle on a home IV pole](images/iv-pole-v2/v2-curlin-front.jpg)](iv-pole-v2/index.md)
+*The current design — **IV Pole Cradle v2** — holding a Curlin CMS6000 on a standard home IV pole.*
 
 ---
+
+!!! note "This is not a business — it's an open-source medical hardware project"
+    Every file here is free. The goal is simple: that anyone who needs a cradle can
+    **print one themselves**, and that the community can build on the design. There is
+    nothing to buy to use this project. A print-on-demand option exists only so people
+    **without a printer** aren't left out — at cost, not for profit.
 
 !!! warning "Reference Design — Not a Medical Device"
     These files are provided for informational and educational purposes only.
@@ -21,50 +28,58 @@ sent by pharmacies requires a technique that only a few experienced nurses
 can apply correctly. Many home-healthcare patients need a reliable, easy-to-use
 mounting solution now.
 
-## The Solution
+## The Solution — IV Pole Cradle v2
 
-An open-source 3D-printable cradle that any maker can print and any patient
-can assemble. The mounting section is designed as the **OpenPoleMount block** —
-a universal standard for any accessory on a standard home IV pole.
+An open-source cradle that any maker can print and any patient can assemble.
+**v2 is the current, recommended design**: the pump seats fully in the cradle
+pocket with the keypad and screen accessible, and a printed T-handle thumbscrew
+clamps it to a standard home IV pole. The mounting section is built as the
+**OpenPoleMount block** — a universal standard for any accessory on a home IV pole.
+
+[See all v2 photos & details →](iv-pole-v2/index.md){ .md-button .md-button--primary }
+
+### The v2 model
+
+[![IV Pole Cradle v2 — Blender model, pump pocket at left, U-shaped pole channel at right](images/iv-pole-v2/v2-stl-render.jpg)](iv-pole-v2/index.md)
+*IV Pole Cradle v2 in Blender — pump pocket at left, U-shaped pole channel and thumbscrew boss at right, "I.V. Pole v2" embossed on the body.*
 
 ---
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin:2rem 0;">
-  <div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid var(--md-primary-fg-color);">
-    <div style="font-size:1.1rem;font-weight:700;margin-bottom:0.5rem;">🖨️ Print It Yourself — Free</div>
-    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">Download the STL files and print on any FDM printer. PLA, 6 walls, 35% infill.</div>
-    <a href="iv-pole-v2/print-settings.md" style="display:inline-block;padding:0.5rem 1.25rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Print Guide →</a>
+## Get the v2 cradle
+
+The whole point of this project is **open-source 3D printing**. Printing it
+yourself is the primary path — it's free, and you control the material and quality.
+
+<div style="padding:2rem;background:var(--md-code-bg-color);border-radius:8px;border-left:5px solid var(--md-primary-fg-color);margin:1.5rem 0;">
+  <div style="font-size:1.35rem;font-weight:800;margin-bottom:0.5rem;">🖨️ Print it yourself — free & open source</div>
+  <div style="font-size:0.95rem;color:var(--md-default-fg-color--light);margin-bottom:1.25rem;max-width:48rem;">
+    Download the v2 STL files and print on any FDM printer. Tested in PLA. Two parts:
+    the cradle body and the T-handle thumbscrew — no extra hardware needed.
   </div>
-  <div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid #2e7d32;">
-    <div style="font-size:1.1rem;font-weight:700;margin-bottom:0.5rem;">📦 Order Pre-Printed — $25 + shipping</div>
-    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1rem;">No printer needed. Get the V2 cradle + thumbscrew printed and shipped to you.</div>
-    <a href="order.md" style="display:inline-block;padding:0.5rem 1.25rem;background:#2e7d32;color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Order Now →</a>
-  </div>
+  <a href="iv-pole-v2/print-settings.md" style="display:inline-block;padding:0.6rem 1.5rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:1rem;font-weight:700;">Print Guide (v2) →</a>
 </div>
 
----
+<div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1.25rem 0;padding-left:0.25rem;">
+  No printer or maker nearby? You can have the v2 cradle printed on demand and shipped
+  to you, at the cost of printing — this is a fallback, not the point of the project.
+  <a href="order.md">No printer? Order one →</a>
+</div>
 
 ## Download STL Files
 
-[Download STL Files (v1.1.0)](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
+[Download STL Files (latest release)](https://github.com/GoR-XarraY/openpolemount/releases/latest){ .md-button .md-button--primary }
 [View on GitHub](https://github.com/GoR-XarraY/openpolemount){ .md-button }
 
-## Available Variants
-
-Two cradle shapes are available — choose whichever you prefer. Both use the same
-thumbscrew, the same print settings, and the same assembly process.
-
-| Variant | File | Shape |
+| File | Purpose | Print |
 |---|---|---|
-| **IV Pole Mount v1** | `OpenPoleMount_IV-Pole_v1.stl` | Original shape — [Print Guide →](print-settings.md) |
-| **IV Pole Mount v2** | `OpenPoleMount_IV-Pole_v2.stl` | Revised exterior shape — [Print Guide →](iv-pole-v2/print-settings.md) |
-| **Thumbscrew** (both variants) | `thumbscrew_v14_flat_Thandle.stl` | T-handle, flat grip |
+| `OpenPoleMount_IV-Pole_v2.stl` | **v2 cradle body** — current design | 1× |
+| `thumbscrew_v14_flat_Thandle.stl` | T-handle thumbscrew for pole attachment | 1× |
 
 ## Getting Started
 
-1. **[Order pre-printed ($25 + shipping) →](order.md)** — no printer needed
-2. **Choose your shape** — [v1](print-settings.md) or [v2](iv-pole-v2/index.md)
-3. **[Assembly →](assembly.md)** — step-by-step mounting instructions (same for both variants)
+1. **[See the v2 cradle →](iv-pole-v2/index.md)** — photos, model, and details
+2. **[Print it yourself →](iv-pole-v2/print-settings.md)** — settings, orientation, checklist
+3. **[Assemble it →](iv-pole-v2/assembly.md)** — step-by-step mounting (no tools)
 4. **[Safety & Disclaimer →](safety.md)** — read before use
 
 ## Designed For
@@ -72,17 +87,30 @@ thumbscrew, the same print settings, and the same assembly process.
 | Component | Description |
 |---|---|
 | Pump | Curlin CMS6000 Infusion Pump |
-| Pole | Standard home IV pole (~25mm / 1 inch diameter) |
-| Attachment | Printed thumbscrew (included in download) |
+| Pole | Standard home IV pole (~25 mm / 1 inch diameter) |
+| Attachment | Printed T-handle thumbscrew (included in download) |
 
-## Open Source
+## Open Source — Build On It
 
 All designs are released under [CERN-OHL-W-2.0](https://cern-ohl.web.cern.ch/) —
-modifications to these designs must stay open source. Documentation is under
-[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+any modifications must stay open source. Documentation is under
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). This is community
+hardware: improvements, remixes, and new accessories are the goal.
 
 **[Contribute a new accessory →](contributing.md)**
 
 ---
 
-*OpenPoleMount is not affiliated with Curlin Medical, Smiths Medical, or any IV pump manufacturer.*
+## Looking for v1?
+
+The original **v1** print is still available, but it's **not very functional as a
+pump cradle** — the pump doesn't seat as securely as it does in v2. v1 is now best
+repurposed as an **accessory box that mounts on the pole below the pump** — for
+alcohol wipes, spare caps, tubing, or other small supplies.
+
+**[About the v1 accessory box →](print-settings.md)**
+
+---
+
+*OpenPoleMount is an independent open-source project. It is not affiliated with
+Curlin Medical, Smiths Medical, or any IV pump manufacturer.*

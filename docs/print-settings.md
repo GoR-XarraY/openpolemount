@@ -1,10 +1,23 @@
-# Print Guide
+# v1 — Accessory Box (legacy)
+
+!!! info "Use v2 for the pump. Use v1 as an accessory box."
+    **v1 is the original print, and it's not very functional as a pump cradle** — the
+    pump doesn't seat as securely as it does in the current
+    [**IV Pole Cradle v2**](iv-pole-v2/index.md). If you want to hold the Curlin CMS6000,
+    **print v2 instead**.
+
+    v1 is still useful: it's best repurposed as an **accessory box that mounts on the
+    pole below the pump** — for alcohol wipes, spare caps, tubing, or other small supplies.
+    The print settings, thumbscrew, and OpenPoleMount block are the same as v2, so it
+    still clamps to any standard home IV pole.
+
+The rest of this page is the original v1 print and assembly reference.
 
 !!! danger "Safety Note — Read First"
-    This is a load-bearing mount. A Curlin CMS6000 pump with a full IV bag weighs
-    approximately **1.4 kg (3 lbs)**. Print quality directly affects safety.
-    The settings below are **minimums** — you are responsible for verifying
-    mechanical integrity before use. See [Safety & Disclaimer](safety.md).
+    Anything you hang on an IV pole can fall. Print quality affects how well the box
+    holds together and stays on the pole. The settings below are **minimums** — you are
+    responsible for verifying mechanical integrity before use. See
+    [Safety & Disclaimer](safety.md).
 
 ## Required Files
 
@@ -40,21 +53,19 @@ if you print in another material, please share your results by
 | Setting | Cradle | Thumbscrew |
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
-| **Wall count** | **6 walls (≈2.4 mm at 0.4 mm nozzle)** | **6 walls** |
-| **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
-| **Infill** | **35% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **35% minimum** |
-| Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
+| **Wall count** | **1 mm minimum** | **1 mm minimum** |
+| **Infill** | **25% minimum — non-concentric pattern** | **25% minimum** |
+| Infill pattern | Non-concentric — **not** lines, grid, or concentric | same |
 | Supports | None needed | Optional — single layer keeps part in place; brim works too |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
 !!! danger "Wall and Infill Minimums Are Safety-Critical"
     Testing has shown that the mount **can crack if over-tightened** when walls
-    or infill are below these minimums. The 6-wall + 2 mm top/bottom + 35%
-    non-concentric infill combination is the recommended minimum.
+    or infill are below these minimums. The 1 mm walls + 25% non-concentric infill
+    combination is the recommended minimum.
 
     **Do not use concentric, lines, or grid infill patterns** — they do not provide
     the same resistance to the stress concentration from the thumbscrew.
-    3D honeycomb is the preferred pattern.
 
 ## Part Orientation
 
