@@ -1,31 +1,27 @@
 ---
-title: Order a Pre-Printed Cradle
-description: Get the OpenPoleMount IV Pole Cradle v2 professionally 3D printed and shipped to you for $25 + shipping.
+title: No Printer? Order One
+description: If you can't 3D print the OpenPoleMount v2 IV pole cradle yourself, you can have it printed on demand via Slant 3D (Teleport) and shipped to you — at cost.
 ---
 
-# Order a Pre-Printed Cradle
+# No Printer? Order One
 
-**Don't have a printer? We've got you covered.**
+!!! note "Printing it yourself is the goal — this page is the fallback"
+    OpenPoleMount is an open-source medical hardware project, **not a business**.
+    The intended path is that you (or a maker friend) **print the v2 cradle yourself
+    for free** — see the [Print Guide](iv-pole-v2/print-settings.md). This page exists
+    only so people **without access to a printer** aren't left out. The price covers
+    print-on-demand and shipping — it is not a profit.
 
-Get the IV Pole Mount v2 printed and shipped directly to your door — no printer, no filament, no setup required.
+If you don't have a 3D printer and can't find a maker nearby, you can have the
+**IV Pole Cradle v2** printed on demand and shipped to you.
 
-<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.5rem;margin:2rem 0;text-align:center;">
-  <div style="padding:1.5rem;background:var(--md-code-bg-color);border-radius:8px;">
-    <div style="font-size:2rem;font-weight:700;color:var(--md-primary-fg-color);">$25</div>
-    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-top:0.25rem;">+ shipping</div>
-    <div style="font-size:0.85rem;margin-top:0.75rem;">Printed to spec — 6 walls, 35% infill, PLA</div>
-  </div>
-  <div style="padding:1.5rem;background:var(--md-code-bg-color);border-radius:8px;">
-    <div style="font-size:2rem;font-weight:700;color:var(--md-primary-fg-color);">2</div>
-    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-top:0.25rem;">parts included</div>
-    <div style="font-size:0.85rem;margin-top:0.75rem;">Cradle body + T-handle thumbscrew</div>
-  </div>
-  <div style="padding:1.5rem;background:var(--md-code-bg-color);border-radius:8px;">
-    <div style="font-size:2rem;font-weight:700;color:var(--md-primary-fg-color);">0</div>
-    <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-top:0.25rem;">tools needed</div>
-    <div style="font-size:0.85rem;margin-top:0.75rem;">Hand-tighten only — no hardware required</div>
-  </div>
-</div>
+## How it's printed
+
+The order below is fulfilled through **Teleport**, the print-on-demand service from
+**[Slant 3D](https://www.slant3d.com/)**. They print the exact same open-source v2
+files published on this site — there's no special or "official" version. The parts
+are printed in PLA to the [recommended safety minimums](iv-pole-v2/print-settings.md)
+documented here.
 
 !!! warning "This is a reference design, not a medical device"
     The printed parts you receive are the same open-source design published on this site.
@@ -34,7 +30,18 @@ Get the IV Pole Mount v2 printed and shipped directly to your door — no printe
 
 ---
 
-## Place Your Order
+## What you receive
+
+| Item | Spec |
+|---|---|
+| Cradle body | `OpenPoleMount_IV-Pole_v2.stl` — current v2 design |
+| Thumbscrew | `thumbscrew_v14_flat_Thandle.stl` — T-handle grip |
+| Material | PLA |
+| Tools needed | None — hand-tighten only |
+
+---
+
+## Order via Slant 3D / Teleport
 
 <div style="display:flex;justify-content:center;margin:2rem 0;">
   <iframe title="OpenPoleMount - I.V. Pole Cradle V2" width="500" height="1500"
@@ -45,20 +52,12 @@ Get the IV Pole Mount v2 printed and shipped directly to your door — no printe
 
 ---
 
-## What You're Getting
-
-| Item | Spec |
-|---|---|
-| Cradle body | `OpenPoleMount_IV-Pole_v2.stl` — v2 shape |
-| Thumbscrew | `thumbscrew_v14_flat_Thandle.stl` — T-handle grip |
-| Material | PLA |
-
-The parts are printed to the [recommended safety minimums](iv-pole-v2/print-settings.md) documented on this site.
-
 ## Assembly
 
-Once your parts arrive, follow the [Assembly Guide →](iv-pole-v2/assembly.md). No tools required — the cradle mounts to your IV pole by hand in under a minute.
+Once your parts arrive, follow the [Assembly Guide →](iv-pole-v2/assembly.md). No
+tools required — the cradle mounts to your IV pole by hand in under a minute.
 
 ## Questions?
 
-[Open an issue on GitHub](https://github.com/GoR-XarraY/openpolemount/issues) — include your order details and we'll help.
+[Open an issue on GitHub](https://github.com/GoR-XarraY/openpolemount/issues) — include
+your order details and we'll help.

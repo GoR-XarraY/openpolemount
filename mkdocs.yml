@@ -31,19 +31,19 @@ theme:
 
 nav:
   - Home: index.md
-  - Order a Print ($25): order.md
-  - IV Pole Mount v1:
-    - Print Guide: print-settings.md
-    - Assembly: assembly.md
-    - Strength Testing: testing.md
-  - IV Pole Mount v2:
+  - IV Pole Cradle — v2:
     - Overview & Photos: iv-pole-v2/index.md
-    - Print Guide: iv-pole-v2/print-settings.md
+    - Print It Yourself: iv-pole-v2/print-settings.md
     - Assembly: iv-pole-v2/assembly.md
+    - Strength Testing: testing.md
+  - No Printer? Order One: order.md
+  - v1 — Accessory Box:
+    - About v1: print-settings.md
+    - v1 Assembly: assembly.md
   - Safety & Disclaimer: safety.md
   - Contribute: contributing.md
   - Accessories: accessories/index.md
-  - License & Commercial Use: license.md
+  - License & Open Hardware: license.md
 
 plugins:
   - search
