@@ -19,8 +19,9 @@ image: images/iv-pole-v2/v2-og-image.jpg
     to a standard home IV pole. It uses the `thumbscrew_v14_flat_Thandle.stl` thumbscrew
     and the OpenPoleMount block standard.
 
-    The original [**v1**](../print-settings.md) is **not very functional as a pump cradle**
-    and is now best repurposed as an accessory box that mounts on the pole below the pump.
+    The original [**v1**](../print-settings.md) is **not functional as a pump cradle** —
+    the pump buttons and screen are not accessible when the pump is seated in it. v1 is
+    best repurposed as an accessory box that mounts on the pole below the pump.
 
 ## Printing Footage
 

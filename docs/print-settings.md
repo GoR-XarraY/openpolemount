@@ -1,8 +1,8 @@
 # v1 — Accessory Box (legacy)
 
 !!! info "Use v2 for the pump. Use v1 as an accessory box."
-    **v1 is the original print, and it's not very functional as a pump cradle** — the
-    pump doesn't seat as securely as it does in the current
+    **v1 is the original print, and it's not functional as a pump cradle** — the pump
+    buttons and screen are not accessible when the pump is seated in v1. Use the current
     [**IV Pole Cradle v2**](iv-pole-v2/index.md). If you want to hold the Curlin CMS6000,
     **print v2 instead**.
 

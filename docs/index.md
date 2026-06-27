@@ -106,10 +106,10 @@ hardware: improvements, remixes, and new accessories are the goal.
 
 ## Looking for v1?
 
-The original **v1** print is still available, but it's **not very functional as a
-pump cradle** — the pump doesn't seat as securely as it does in v2. v1 is now best
-repurposed as an **accessory box that mounts on the pole below the pump** — for
-alcohol wipes, spare caps, tubing, or other small supplies.
+The original **v1** print is still available, but it's **not functional as a pump
+cradle** — the pump buttons and screen are not accessible when the pump is seated in
+v1. v1 is best repurposed as an **accessory box that mounts on the pole below the
+pump** — for alcohol wipes, spare caps, tubing, or other small supplies.
 
 **[About the v1 accessory box →](print-settings.md)**
 
