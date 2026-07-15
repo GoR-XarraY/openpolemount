@@ -34,8 +34,9 @@ An open-source cradle that any maker can print and any patient can assemble.
 **v3 is the current, recommended design**: a smaller, more form-fitting redesign
 built from feedback on v2 — the pump seats snugly in the cradle pocket with the
 keypad and screen accessible, and a printed T-handle thumbscrew clamps it to a
-standard home IV pole. The mounting section is built as the **OpenPoleMount
-block** — a universal standard for any accessory on a home IV pole.
+standard home IV pole. The mounting section is built as the **[OpenPoleMount
+block](mounting-block/index.md)** — the project's foundational component and a
+universal standard for any accessory on a home IV pole.
 
 [See all v3 photos & details →](iv-pole-v3/index.md){ .md-button .md-button--primary }
 

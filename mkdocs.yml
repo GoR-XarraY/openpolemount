@@ -31,6 +31,7 @@ theme:
 
 nav:
   - Home: index.md
+  - The Mounting Block (Project Foundation): mounting-block/index.md
   - IV Pole Cradle — v3:
     - Overview & Photos: iv-pole-v3/index.md
     - Print It Yourself: iv-pole-v3/print-settings.md

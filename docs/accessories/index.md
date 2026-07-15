@@ -28,11 +28,13 @@ This means:
 
 ### Dimensional Specification
 
-Detailed mounting block dimensions will be published in v1.1 to enable
-community accessories to be designed to a formal spec.
+The mounting block now has its own page: **[The Mounting Block (Project
+Foundation)](../mounting-block/index.md)** — with the STL, source CAD, and
+measured dimensions. The formal accessory-mating tolerance spec (thread pitch,
+boss pattern, channel diameter) is still being finalized there.
 
 If you want to start designing now, [open an issue](https://github.com/GoR-XarraY/openpolemount/issues)
-and we'll share the current dimensions.
+and we'll share the current interface dimensions.
 
 ---
 
@@ -42,6 +44,6 @@ and we'll share the current dimensions.
 |---|---|
 | IV bag holder / spike stand | Planned |
 | Universal phone / tablet mount | Planned |
-| OpenPoleMount block (standalone) | Planned for v1.1 |
+| [OpenPoleMount block (standalone)](../mounting-block/index.md) | ✅ Published |
 
 Community contributions are welcome before these are officially published.
