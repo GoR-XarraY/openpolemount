@@ -1,16 +1,23 @@
-# Print Guide — IV Pole Mount v2
+# Print Guide — IV Pole Mount v2 (Universal Device Holder)
 
 !!! danger "Safety Note — Read First"
-    This is a load-bearing mount. A Curlin CMS6000 pump with a full IV bag weighs
-    approximately **1.4 kg (3 lbs)**. Print quality directly affects safety.
-    The settings below are **minimums** — you are responsible for verifying
-    mechanical integrity before use. See [Safety & Disclaimer](../safety.md).
+    This is a load-bearing mount. A typical infusion pump with a full IV bag weighs
+    approximately **1.4 kg (3 lbs)** — the design was originally validated against
+    that weight. Print quality directly affects safety. The settings below are
+    **minimums** — you are responsible for verifying mechanical integrity, and
+    device fit, before use. See [Safety & Disclaimer](../safety.md).
+
+!!! info "Looking for the Curlin CMS6000? Print v3 instead"
+    v2's pocket is a general-purpose shape, not fitted to one specific pump.
+    [**v3**](../iv-pole-v3/index.md) is the recommended, form-fitting cradle for the
+    Curlin CMS6000. See the [v3 Print Guide](../iv-pole-v3/print-settings.md).
 
 !!! info "V2 vs V1 — What's Different"
     The IV Pole Mount v2 has a **different exterior shape** compared to v1.
-    All functional dimensions are identical — same pole channel, same pump cradle pocket,
-    same thumbscrew thread. All print settings, material requirements, and specifications
-    on this page are the same as v1. Choose whichever shape you prefer; they are functionally equivalent.
+    All functional dimensions are identical — same pole channel, same general-purpose
+    pocket, same thumbscrew thread. All print settings, material requirements, and
+    specifications on this page are the same as v1. Choose whichever shape you prefer;
+    they are functionally equivalent.
 
 ## Required Files
 

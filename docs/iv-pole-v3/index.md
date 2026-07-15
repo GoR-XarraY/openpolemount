@@ -1,0 +1,105 @@
+---
+title: IV Pole Mount v3
+description: Open source 3D-printable IV pole cradle for the Curlin CMS6000 — a smaller, more form-fitting v3 shape built from user feedback
+image: images/iv-pole-v3/v3-og-image.jpg
+---
+
+# IV Pole Cradle v3
+
+**The current OpenPoleMount design — a smaller, more form-fitting cradle built
+specifically for the Curlin CMS6000, based on feedback from people using v2.**
+
+[![IV Pole Cradle v3 — 3D render, "I.V. Pole v3" and "OpenPoleMount" embossed on the mounting block](../images/iv-pole-v3/v3-stl-render.jpg)](../images/iv-pole-v3/v3-stl-render.jpg)
+*IV Pole Cradle v3 — a tighter, form-fitting pocket sized to the Curlin CMS6000, with the same U-shaped pole channel and thumbscrew boss as v2.*
+
+---
+
+!!! success "This is the design to print"
+    **v3 is the recommended cradle.** It's a smaller, more form-fitting redesign of
+    the pocket — built directly from feedback from people who printed v2 — while
+    keeping the same pole channel and printed T-handle thumbscrew that clamps it to
+    a standard home IV pole. It uses the `thumbscrew_v14_flat_Thandle.stl` thumbscrew
+    and the OpenPoleMount block standard, same as v1 and v2.
+
+    [**v2**](../iv-pole-v2/index.md) is still a good print — it's now documented as a
+    **universal device holder** for other pumps and devices, since its more open
+    pocket shape isn't as tightly fitted to any one device.
+
+!!! warning "STL files coming shortly"
+    The v3 print files in this repository are still being finalized for release —
+    they are not yet packaged in the same print-ready format as the v1 and v2 STLs.
+    **Do not attempt to print from the raw working files in `stl/`.** The
+    [Print Guide](print-settings.md) will be updated with a download link as soon as
+    the release-ready STL is published. [Watch the GitHub releases page →](https://github.com/GoR-XarraY/openpolemount/releases)
+
+## Installed Photos
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <img src="../images/iv-pole-v3/v3-mounted-front.jpg" alt="Curlin CMS6000 in V3 cradle — front view" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Front — pump fully seated, keypad and screen accessible</p>
+  </div>
+  <div>
+    <img src="../images/iv-pole-v3/v3-mounted-angle.jpg" alt="V3 mount — 3/4 angle view" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">3/4 angle — pump in the form-fitting cradle pocket</p>
+  </div>
+  <div>
+    <img src="../images/iv-pole-v3/v3-mount-rear.jpg" alt="V3 mount — rear/underside with pump cassette door" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear/underside — pump cassette door, "I.V. Pole v3" / "OpenPoleMount" embossed on the block</p>
+  </div>
+  <div>
+    <img src="../images/iv-pole-v3/v3-thumbscrew-closeup.jpg" alt="T-handle thumbscrew close-up on V3 mount" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Thumbscrew detail — hand-tighten only</p>
+  </div>
+</div>
+
+### Curlin CMS6000 — More Views
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v3/v3-curlin-front.jpg"><img src="../images/iv-pole-v3/v3-curlin-front.jpg" alt="Curlin CMS6000 front in V3 cradle, alternate angle" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Curlin CMS6000 — front, keypad fully visible</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/v3-curlin-rear2.jpg"><img src="../images/iv-pole-v3/v3-curlin-rear2.jpg" alt="Curlin CMS6000 rear/underside in V3 cradle, alternate angle" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear/underside — alternate angle, cassette door and pole clamp</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/v3-mount-side.jpg"><img src="../images/iv-pole-v3/v3-mount-side.jpg" alt="V3 mount — side view showing pole clamp and a second OpenPoleMount block" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Side — pole clamp detail; a second OpenPoleMount block mounted below shows the stackable standard</p>
+  </div>
+</div>
+
+### Cradle Detail — Empty
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v3/v3-empty-top.jpg"><img src="../images/iv-pole-v3/v3-empty-top.jpg" alt="V3 cradle empty — top-down view on pole" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Top-down — "I.V. Pole v3" label embossed on the mounting block</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/v3-channel-detail.jpg"><img src="../images/iv-pole-v3/v3-channel-detail.jpg" alt="V3 cradle pocket close-up, empty" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Pocket detail — the tighter, form-fitting shape compared to v2's more open box</p>
+  </div>
+</div>
+
+---
+
+<div style="padding:1.75rem;background:var(--md-code-bg-color);border-radius:8px;border-left:5px solid var(--md-primary-fg-color);margin:2rem 0;">
+  <div style="font-size:1.2rem;font-weight:800;margin-bottom:0.5rem;">🖨️ Print it yourself — free & open source</div>
+  <div style="font-size:0.9rem;color:var(--md-default-fg-color--light);margin-bottom:1.25rem;">Download the v3 STL files and print on any FDM printer. This is the whole point of the project.</div>
+  <a href="../iv-pole-v3/print-settings/" style="display:inline-block;padding:0.55rem 1.4rem;background:var(--md-primary-fg-color);color:white;border-radius:4px;text-decoration:none;font-size:0.95rem;font-weight:700;">Print Guide →</a>
+</div>
+
+<div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1rem 0;">
+  No printer or maker nearby? The v3 print-on-demand order isn't set up yet — while
+  we finalize the v3 release files, the [v2 cradle](../iv-pole-v2/index.md) is
+  available print-on-demand via Slant 3D / Teleport.
+  <a href="../order/">No printer? Order one →</a>
+</div>
+
+## Next Steps
+
+1. **[Print Guide →](print-settings.md)** — settings, orientation, checklist
+2. **[Assembly →](assembly.md)** — step-by-step with photos
+3. **[Safety & Disclaimer →](../safety.md)** — read before use

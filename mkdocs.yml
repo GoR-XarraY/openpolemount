@@ -31,11 +31,15 @@ theme:
 
 nav:
   - Home: index.md
-  - IV Pole Cradle — v2:
+  - IV Pole Cradle — v3:
+    - Overview & Photos: iv-pole-v3/index.md
+    - Print It Yourself: iv-pole-v3/print-settings.md
+    - Assembly: iv-pole-v3/assembly.md
+    - Strength Testing: testing.md
+  - IV Pole Cradle — v2 (Universal Holder):
     - Overview & Photos: iv-pole-v2/index.md
     - Print It Yourself: iv-pole-v2/print-settings.md
     - Assembly: iv-pole-v2/assembly.md
-    - Strength Testing: testing.md
   - No Printer? Order One: order.md
   - v1 — Accessory Box:
     - About v1: print-settings.md

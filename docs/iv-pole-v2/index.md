@@ -1,23 +1,30 @@
 ---
-title: IV Pole Mount v2
-description: Open source 3D-printable IV pole cradle for the Curlin CMS6000 — revised v2 shape
+title: IV Pole Mount v2 — Universal Device Holder
+description: Open source 3D-printable IV pole holder with a general-purpose pocket — may fit several infusion pumps or other devices
 image: images/iv-pole-v2/v2-og-image.jpg
 ---
 
-# IV Pole Cradle v2
+# IV Pole Cradle v2 — Universal Device Holder
 
-**The current OpenPoleMount design — the recommended cradle for holding the Curlin CMS6000 on a home IV pole.**
+**A general-purpose pocket for a home IV pole. Its more open shape isn't fitted to
+one specific pump, so it may hold several different infusion pumps or other small
+devices.**
 
 [![IV Pole Cradle v2 — Blender model, pump pocket at left, U-shaped pole channel at right](../images/iv-pole-v2/v2-stl-render.jpg)](../images/iv-pole-v2/v2-stl-render.jpg)
-*IV Pole Cradle v2 in Blender — U-shaped pole channel and thumbscrew boss at right, pump pocket at left, embossed "I.V. Pole v2" / "OpenPoleMount" labels.*
+*IV Pole Cradle v2 in Blender — U-shaped pole channel and thumbscrew boss at right, general-purpose pocket at left, embossed "I.V. Pole v2" / "OpenPoleMount" labels.*
 
 ---
 
-!!! success "This is the design to print"
-    **v2 is the recommended cradle.** The pump seats fully and securely in the pocket
-    with the keypad and screen accessible, and the printed T-handle thumbscrew clamps it
-    to a standard home IV pole. It uses the `thumbscrew_v14_flat_Thandle.stl` thumbscrew
-    and the OpenPoleMount block standard.
+!!! success "Looking for the Curlin CMS6000? Print v3 instead"
+    **[v3](../iv-pole-v3/index.md) is the recommended cradle for the Curlin CMS6000** —
+    it's a smaller, more form-fitting redesign built from feedback on this v2 pocket.
+
+    **v2 is still a good print** — it's now documented here as a **universal device
+    holder**: its more open pocket may fit several infusion pumps or other similar-sized
+    devices, but **we do not yet have a compatibility list**. If you print v2 and it
+    holds your device well (or doesn't), please
+    [open an issue and tell us](https://github.com/GoR-XarraY/openpolemount/issues) —
+    fit reports from the community are how this list gets built.
 
     The original [**v1**](../print-settings.md) is **not functional as a pump cradle** —
     the pump buttons and screen are not accessible when the pump is seated in it. v1 is
@@ -36,6 +43,11 @@ image: images/iv-pole-v2/v2-og-image.jpg
 </div>
 
 ## Installed Photos
+
+These photos show v2 holding a Curlin CMS6000 — the pairing it was originally
+photographed with, before v3 was designed specifically for that pump. They
+illustrate the pocket's general size and shape; they are not a claim that v2 is
+the recommended holder for this or any specific device.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
   <div>
@@ -56,7 +68,7 @@ image: images/iv-pole-v2/v2-og-image.jpg
   </div>
 </div>
 
-### Curlin CMS6000 — More Views
+### Example Fit — Curlin CMS6000 (Original Photos)
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
   <div>
@@ -132,3 +144,4 @@ image: images/iv-pole-v2/v2-og-image.jpg
 1. **[Print Guide →](print-settings.md)** — settings, orientation, checklist
 2. **[Assembly →](assembly.md)** — step-by-step with photos
 3. **[Safety & Disclaimer →](../safety.md)** — read before use
+4. **[Looking for the Curlin CMS6000 cradle? See v3 →](../iv-pole-v3/index.md)**

@@ -1,5 +1,12 @@
 # Strength Testing
 
+!!! info "Scope of this testing"
+    This destruction testing was performed on the v1/v2 cradle body shape. The
+    v3 pocket (smaller, more form-fitted to the Curlin CMS6000) shares the same
+    pole channel, thumbscrew boss, and wall construction method, but **has not yet
+    been separately tested to failure**. See the
+    [v3 Print Guide](iv-pole-v3/print-settings.md) for current status.
+
 ## Summary
 
 OpenPoleMount v1 was tested to destruction on 2026-06-09 using a deliberately under-spec print.

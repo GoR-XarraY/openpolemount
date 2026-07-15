@@ -7,6 +7,27 @@ and this project uses semantic versioning.
 
 ## [Unreleased]
 
+### Added
+- IV Pole Mount v3 documentation (`docs/iv-pole-v3/`) — overview/photos, print guide,
+  assembly guide — a smaller, more form-fitting cradle for the Curlin CMS6000, built
+  from user feedback on v2
+- 9 new v3 product photos, processed and published under `docs/images/iv-pole-v3/`
+- v3 promoted to the primary/lead design on the homepage, README, and nav
+
+### Changed
+- v2 repositioned as a **universal device holder**: the CMS6000-specific
+  recommendation was removed; v2 now documents that its more open pocket may fit
+  several infusion pumps or other devices, with no confirmed compatibility list yet,
+  and invites community fit reports
+- Homepage, README, nav, and social share image (OG/Twitter) updated to lead with v3
+- `docs/testing.md` — added a scope note clarifying the destruction testing applies to
+  the v1/v2 shape; v3 has not yet been separately tested
+
+### Known Issues / Pending
+- v3 STL release files are not yet published — the working files in `stl/` are not in
+  the release-ready format used for v1/v2. Print-on-demand ordering and downloadable
+  STL links for v3 are not yet live.
+
 ## [1.1.0] - 2026-06-17
 
 ### Added

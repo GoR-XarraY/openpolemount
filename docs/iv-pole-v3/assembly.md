@@ -1,30 +1,24 @@
-# Assembly Guide — IV Pole Mount v2 (Universal Device Holder)
+# Assembly Guide — IV Pole Mount v3
 
 !!! warning "Before You Start"
     Verify your printed parts pass all checks in the [Print Guide](print-settings.md)
     before assembly. Do not use parts with visible layer delamination, cracking,
     or significant warping.
 
-!!! info "V2 vs V1 — What's Different"
-    The assembly process for v2 is identical to v1. The v2 cradle has a different
-    exterior shape but the same pole channel, general-purpose pocket, and thumbscrew
-    interface. These instructions apply to both versions.
-
-!!! note "No device compatibility list yet"
-    v2's pocket is general-purpose — it was originally photographed with a Curlin
-    CMS6000, and may fit that or other similarly-sized infusion pumps or devices, but
-    we don't have a confirmed list. Test-fit your device before relying on it, and
-    [tell us how it went](https://github.com/GoR-XarraY/openpolemount/issues).
-    Looking for the CMS6000 specifically? [Print v3 →](../iv-pole-v3/index.md)
+!!! info "V3 vs V1/V2 — What's Different"
+    The assembly process for v3 is identical to v1 and v2. The v3 cradle has a
+    smaller, more form-fitting pocket shaped around the Curlin CMS6000, but the
+    same pole channel, thumbscrew interface, and OpenPoleMount block standard.
+    These instructions apply to all three versions.
 
 ## What You Need
 
 | Item | Source |
 |---|---|
-| Printed cradle (`OpenPoleMount_IV-Pole_v2.stl`) | Print 1x |
+| Printed cradle (`OpenPoleMount_IV-Pole_v3.stl` — *release pending, see [Print Guide](print-settings.md)*) | Print 1x |
 | Printed thumbscrew (`thumbscrew_v14_flat_Thandle.stl`) | Print 1x |
 | Standard home IV pole (~25mm / 1 inch diameter) | Your existing equipment |
-| Your infusion pump or device (test-fit first — no confirmed compatibility list yet) | Your existing equipment |
+| Curlin CMS6000 infusion pump | Your existing equipment |
 
 No tools required — assembly is fully hand-tightened by design.
 
@@ -38,7 +32,7 @@ Insert the thumbscrew into the threaded hole on the side of the cradle.
 Turn **clockwise** by hand until it fully engages, then back off 2–3 turns
 so the pole channel is open enough to slide onto the pole.
 
-![T-handle thumbscrew close-up](../images/iv-pole-v2/v2-thumbscrew-closeup.jpg)
+![T-handle thumbscrew close-up on V3 mount](../images/iv-pole-v3/v3-thumbscrew-closeup.jpg)
 *T-handle thumbscrew threaded into the mount — hand-tight only*
 
 ### Step 2 — Slide onto the pole
@@ -52,21 +46,22 @@ Turn the thumbscrew **clockwise** by hand until it firmly contacts the pole.
 Give it one additional firm quarter-turn. The cradle should not slide when
 you push down on it with moderate force.
 
-![V2 mount rear view — thumbscrew on pole](../images/iv-pole-v2/v2-mount-rear.jpg)
-*Rear view showing the thumbscrew engaged with the pole*
+![V3 mount rear view — pole clamp and thumbscrew](../images/iv-pole-v3/v3-mount-rear.jpg)
+*Rear/underside view showing the thumbscrew boss engaged with the pole*
 
 !!! danger "Do Not Over-Tighten"
     Over-tightening can crack the printed part. Hand-tight plus one quarter-turn
     is sufficient. If the cradle slips at this tension, inspect the print quality
     and reprint if needed — do not force beyond hand-tight.
 
-### Step 4 — Install the device
+### Step 4 — Install the pump
 
-Lower your pump or device into the cradle from above. It should seat into the
-pocket without forcing. Verify it is fully seated and does not rock or tip.
+Lower the Curlin CMS6000 into the cradle from above. Because the v3 pocket is
+form-fitted to the pump body, it should seat snugly with very little side play.
+Verify the pump is fully seated and does not rock or tip.
 
-![Curlin CMS6000 seated in V2 cradle](../images/iv-pole-v2/v2-mounted-front.jpg)
-*Example fit — Curlin CMS6000 fully seated in the v2 pocket, front face accessible, IV tubing free to exit*
+![Curlin CMS6000 seated in V3 cradle](../images/iv-pole-v3/v3-mounted-front.jpg)
+*Pump fully seated in the v3 cradle — front face accessible, IV tubing free to exit*
 
 ### Step 5 — Verify stability
 
@@ -77,8 +72,8 @@ Before connecting any IV line:
 - [ ] IV tubing can exit the pump without creating strain on the mount
 - [ ] IV pole base is fully spread and stable on the floor
 
-![V2 mount — 3/4 angle view](../images/iv-pole-v2/v2-mounted-angle.jpg)
-*Completed installation — pump in cradle, IV tubing routed, mount secure on pole*
+![V3 mount — 3/4 angle view](../images/iv-pole-v3/v3-mounted-angle.jpg)
+*Completed installation — pump in the form-fitting v3 cradle, mount secure on pole*
 
 ---
 
@@ -109,7 +104,7 @@ Do not attempt to slide the cradle while the pump is seated in it.
 | Problem | Likely Cause | Solution |
 |---|---|---|
 | Cradle slides down the pole | Thumbscrew not tight enough or pole diameter too small | Tighten more; check pole diameter matches design spec |
-| Pump/device rocks in the cradle | Device isn't a close match for this pocket, or print tolerance issue | Try [v3](../iv-pole-v3/index.md) if this is a Curlin CMS6000; otherwise [open an issue](https://github.com/GoR-XarraY/openpolemount/issues) with your device and we'll help build the compatibility list |
+| Pump doesn't seat fully / feels tight | Print tolerance/shrinkage variance — v3's pocket is form-fitted with less clearance than v2 | [Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) with your printer/material; v2's more open pocket is a fallback |
 | Thumbscrew won't turn smoothly | Print stringing in threads or warped thread hole | Clean threads with brush; if damaged, reprint thumbscrew |
 | Pole doesn't fit the channel | Pole diameter differs from design | [Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) with your pole diameter |
 | Part cracked during assembly | Over-tightening or under-printed | Reprint at ≥35% infill, 6 walls; hand-tighten only |
