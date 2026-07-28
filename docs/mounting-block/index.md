@@ -101,3 +101,10 @@ interface unchanged, and add your holder on top. See
 [Contributing](../contributing.md) and the
 [Accessories](../accessories/index.md) page — anything built to this block works
 with every OpenPoleMount cradle.
+
+!!! tip "License note — you keep your accessory; just keep block changes open"
+    The block is licensed **CERN-OHL-W-2.0 (weakly reciprocal)**. In practice: if
+    you **modify the block itself**, your modified block must stay open under the
+    same license. But a **separate accessory** you design to sit on top of the
+    block does **not** have to be open — you can license your own add-on however
+    you like. Improve the foundation in the open; your accessory stays yours.
