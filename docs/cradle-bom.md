@@ -27,7 +27,7 @@ All three cradles use this same thumbscrew.
 
 | Item | Value |
 |---|---|
-| Cradle file | `OpenPoleMount_IV-Pole_v3.stl` *(release pending — not yet published)* |
+| Cradle file | [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) |
 | Printed size (L × W × H) | 125 × 100 × 66 mm |
 | Filament, cradle body | **~109 g** PLA (~88 cm³) · **~91 g** PETG (~74 cm³) |
 | + thumbscrew | ~14 g |

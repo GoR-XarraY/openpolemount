@@ -39,16 +39,19 @@ nav:
     - Overview & Photos: iv-pole-v3/index.md
     - Print It Yourself: iv-pole-v3/print-settings.md
     - Assembly: iv-pole-v3/assembly.md
+    - Risk Analysis: iv-pole-v3/risk-analysis.md
     - Strength Testing: testing.md
   - IV Pole Cradle — v2 (Universal Holder):
     - Overview & Photos: iv-pole-v2/index.md
     - Print It Yourself: iv-pole-v2/print-settings.md
     - Assembly: iv-pole-v2/assembly.md
+    - Risk Analysis: iv-pole-v2/risk-analysis.md
   - Cradle Bill of Materials: cradle-bom.md
   - No Printer? Order One: order.md
   - v1 — Accessory Box:
     - About v1: print-settings.md
     - v1 Assembly: assembly.md
+    - Risk Analysis: v1-risk-analysis.md
   - Safety & Disclaimer: safety.md
   - Contribute: contributing.md
   - Accessories: accessories/index.md

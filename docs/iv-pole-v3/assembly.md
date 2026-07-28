@@ -15,7 +15,7 @@
 
 | Item | Source |
 |---|---|
-| Printed cradle (`OpenPoleMount_IV-Pole_v3.stl` — *release pending, see [Print Guide](print-settings.md)*) | Print 1x |
+| Printed cradle ([`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) — see [Print Guide](print-settings.md)) | Print 1x |
 | Printed thumbscrew (`thumbscrew_v14_flat_Thandle.stl`) | Print 1x |
 | Standard home IV pole (~25mm / 1 inch diameter) | Your existing equipment |
 | Your device (equipment to be mounted) | Your existing equipment |

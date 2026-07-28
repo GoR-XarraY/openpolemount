@@ -6,17 +6,12 @@
     The settings below are **minimums** — you are responsible for verifying
     mechanical integrity before use. See [Safety & Disclaimer](../safety.md).
 
-!!! warning "STL Files Not Yet Published — Coming Shortly"
-    The v3 print files are still being finalized for public release. The working
-    export files currently in the repository (`stl/OpenPoleMount_IV-Pole_v3_textured1.stl`
-    and `stl/OpenPoleMount_IV-Pole_v3_watertight.bumpmesh`) are **not** in the same
-    print-ready format used for the v1/v2 releases and should not be printed from
-    directly. Once a finalized `OpenPoleMount_IV-Pole_v3.stl` is published to
-    [GitHub Releases](https://github.com/GoR-XarraY/openpolemount/releases/latest),
-    this page will be updated with the download link.
+!!! success "STL Files Available Now"
+    The finalized `OpenPoleMount_IV-Pole_v3.stl` is published and print-ready — download it
+    [directly](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl)
+    or from [GitHub Releases](https://github.com/GoR-XarraY/openpolemount/releases/latest).
 
-    Want to print something today? [**v2**](../iv-pole-v2/print-settings.md) is
-    fully released and print-ready now.
+    [**v2**](../iv-pole-v2/print-settings.md) also remains fully released and print-ready.
 
 !!! info "V3 vs V2 — What's Different"
     IV Pole Mount v3 uses a **smaller, more form-fitting pocket** (~125 × 100 × 66 mm
@@ -26,12 +21,12 @@
     itself has not yet been separately destruction-tested. Treat these as a starting
     point, not a substitute for your own inspection before use.
 
-## Required Files *(coming shortly)*
+## Required Files
 
 | File | Purpose | Quantity |
 |---|---|---|
-| `OpenPoleMount_IV-Pole_v3.stl` *(pending release)* | IV pole cradle (v3 shape) | 1 |
-| `thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment (same part as v1/v2) | 1 |
+| [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) | IV pole cradle (v3 shape) | 1 |
+| [`thumbscrew_v14_flat_Thandle.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/thumbscrew_v14_flat_Thandle.stl) | Thumbscrew for pole attachment (same part as v1/v2) | 1 |
 
 !!! info "Testing Status — Pending"
     The [destruction testing](../testing.md) on file was performed on the v1/v2

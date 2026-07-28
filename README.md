@@ -36,8 +36,9 @@ user feedback, built around the OpenPoleMount block standard. The cradle holds
 equipment on the pole with the front face accessible, and a printed T-handle
 thumbscrew clamps it to a standard home IV pole.
 
-> v3's print files are still being finalized for release — see
-> [openpolemount.com/iv-pole-v3](https://openpolemount.com/iv-pole-v3/) for status.
+> v3's print files are now available — download the
+> [v3 STL](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl)
+> or see [openpolemount.com/iv-pole-v3](https://openpolemount.com/iv-pole-v3/) for details.
 
 **v2 — universal device holder.** Fully released and print-ready. Documented as a
 universal holder (may fit a range of equipment; no confirmed compatibility list
@@ -79,7 +80,7 @@ guarantee a compatibility list. To share a fit report, please
 
 | File | Description |
 |---|---|
-| `stl/OpenPoleMount_IV-Pole_v3.stl` | **Equipment cradle v3** — current design, form-fitted (release pending — not yet published) |
+| [`stl/OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) | **Equipment cradle v3** — current design, form-fitted (available now) |
 | `stl/OpenPoleMount_IV-Pole_v2.stl` | Equipment cradle v2 — universal device holder, available now (print 1x) |
 | `stl/thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment (print 1x) |
 | `stl/OpenPoleMount_IV-Pole_v1.stl` | v1 — legacy; best used as a pole-mounted accessory box |
@@ -88,7 +89,7 @@ guarantee a compatibility list. To share a fit report, please
 ## Quick Start
 
 1. **Download** the STL files from [Releases](https://github.com/GoR-XarraY/openpolemount/releases/latest)
-2. **Print** the v3 cradle in PLA once released — see the [v3 Print Guide](https://openpolemount.com/iv-pole-v3/print-settings/); the [v2 Print Guide](https://openpolemount.com/iv-pole-v2/print-settings/) is available today
+2. **Print** the v3 cradle in PLA — see the [v3 Print Guide](https://openpolemount.com/iv-pole-v3/print-settings/); the [v2 Print Guide](https://openpolemount.com/iv-pole-v2/print-settings/) is available too
 3. **Assemble** — see the [v3 Assembly Guide](https://openpolemount.com/iv-pole-v3/assembly/)
 4. **Read the disclaimer** — [DISCLAIMER.md](DISCLAIMER.md)
 

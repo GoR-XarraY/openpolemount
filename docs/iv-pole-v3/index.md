@@ -25,12 +25,10 @@ based on feedback from people using v2.**
     **universal device holder** for other devices, since its more open
     pocket shape isn't as tightly fitted to any one device.
 
-!!! warning "STL files coming shortly"
-    The v3 print files in this repository are still being finalized for release —
-    they are not yet packaged in the same print-ready format as the v1 and v2 STLs.
-    **Do not attempt to print from the raw working files in `stl/`.** The
-    [Print Guide](print-settings.md) will be updated with a download link as soon as
-    the release-ready STL is published. [Watch the GitHub releases page →](https://github.com/GoR-XarraY/openpolemount/releases)
+!!! success "v3 STL files are available now"
+    The v3 print files are published and ready to print. Download the
+    [v3 cradle STL](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl)
+    directly, or see the [Print Guide](print-settings.md) for settings and required files.
 
 ## Installed Photos
 

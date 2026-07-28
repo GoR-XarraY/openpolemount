@@ -59,7 +59,7 @@ yourself is the primary path — it's free, and you control the material and qua
 <div style="padding:2rem;background:var(--md-code-bg-color);border-radius:8px;border-left:5px solid var(--md-primary-fg-color);margin:1.5rem 0;">
   <div style="font-size:1.35rem;font-weight:800;margin-bottom:0.5rem;">🖨️ Print it yourself — free & open source</div>
   <div style="font-size:0.95rem;color:var(--md-default-fg-color--light);margin-bottom:1.25rem;max-width:48rem;">
-    Download the v3 STL files (coming shortly) and print on any FDM printer. Tested
+    Download the [v3 STL files](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) and print on any FDM printer. Tested
     settings carried over from v1/v2 in PLA. Two parts: the cradle body and the
     T-handle thumbscrew — no extra hardware needed.
   </div>
@@ -84,7 +84,7 @@ yourself is the primary path — it's free, and you control the material and qua
 
 | File | Purpose | Print |
 |---|---|---|
-| `OpenPoleMount_IV-Pole_v3.stl` | **v3 cradle body** — current design, form-fitted pocket | *(release pending)* |
+| [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) | **v3 cradle body** — current design, form-fitted pocket | 1× |
 | `OpenPoleMount_IV-Pole_v2.stl` | v2 cradle body — universal device holder, available now | 1× |
 | `thumbscrew_v14_flat_Thandle.stl` | T-handle thumbscrew for pole attachment | 1× |
 
