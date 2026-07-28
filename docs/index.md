@@ -1,13 +1,13 @@
 # OpenPoleMount
 
-**An open-source, 3D-printable IV pole cradle for the Curlin CMS6000 infusion pump.**
+**An open-source, 3D-printable universal equipment cradle — and an open mounting standard for home IV poles.**
 
-[![Curlin CMS6000 seated in the OpenPoleMount v3 cradle on a home IV pole](images/iv-pole-v3/v3-mounted-front.jpg)](iv-pole-v3/index.md)
-*The current design — **IV Pole Cradle v3** — a smaller, more form-fitting cradle built specifically for the Curlin CMS6000, from feedback on v2.*
+[![Compact device seated in the OpenPoleMount v3 cradle on a home IV pole](images/iv-pole-v3/v3-mounted-front.jpg)](iv-pole-v3/index.md)
+*The current design — **IV Pole Cradle v3** — a smaller, more form-fitting cradle, refined from feedback on v2.*
 
 ---
 
-!!! note "This is not a business — it's an open-source medical hardware project"
+!!! note "This is not a business — it's an open-source hardware project"
     Every file here is free. The goal is simple: that anyone who needs a cradle can
     **print one themselves**, and that the community can build on the design. There is
     nothing to buy to use this project. A print-on-demand option exists only so people
@@ -23,18 +23,18 @@
 
 ## The Problem
 
-Curlin CMS6000 IV pole mounting cradles are backordered. The bag alternative
-sent by pharmacies requires a technique that only a few experienced nurses
-can apply correctly. Many home-healthcare patients need a reliable, easy-to-use
-mounting solution now.
+Mounting cradles for home infusion equipment can be hard to source, and the bag
+alternative many pharmacies send is awkward for anyone who isn't an experienced
+nurse. Many home-healthcare users need a reliable, easy-to-use mounting solution
+now.
 
 ## The Solution — IV Pole Cradle v3
 
-An open-source cradle that any maker can print and any patient can assemble.
+An open-source cradle that any maker can print and any user can assemble.
 **v3 is the current, recommended design**: a smaller, more form-fitting redesign
-built from feedback on v2 — the pump seats snugly in the cradle pocket with the
-keypad and screen accessible, and a printed T-handle thumbscrew clamps it to a
-standard home IV pole. The mounting section is built as the **[OpenPoleMount
+built from feedback on v2 — equipment seats in the pocket with the front face
+accessible, and a printed T-handle thumbscrew clamps it to a standard home IV
+pole. The mounting section is built as the **[OpenPoleMount
 block](mounting-block/index.md)** — the project's foundational component and a
 universal standard for any accessory on a home IV pole.
 
@@ -42,8 +42,8 @@ universal standard for any accessory on a home IV pole.
 
 ### The v3 model
 
-[![IV Pole Cradle v3 — 3D render, form-fitting pump pocket at left, U-shaped pole channel at right](images/iv-pole-v3/v3-stl-render.jpg)](iv-pole-v3/index.md)
-*IV Pole Cradle v3 — form-fitting pump pocket at left, U-shaped pole channel and thumbscrew boss at right, "I.V. Pole v3" embossed on the body.*
+[![IV Pole Cradle v3 — 3D render, form-fitting equipment pocket at left, U-shaped pole channel at right](images/iv-pole-v3/v3-stl-render.jpg)](iv-pole-v3/index.md)
+*IV Pole Cradle v3 — form-fitting equipment pocket at left, U-shaped pole channel and thumbscrew boss at right, "I.V. Pole v3" embossed on the body.*
 
 ---
 
@@ -84,7 +84,7 @@ yourself is the primary path — it's free, and you control the material and qua
 
 | File | Purpose | Print |
 |---|---|---|
-| `OpenPoleMount_IV-Pole_v3.stl` | **v3 cradle body** — current design, form-fitted to the Curlin CMS6000 | *(release pending)* |
+| `OpenPoleMount_IV-Pole_v3.stl` | **v3 cradle body** — current design, form-fitted pocket | *(release pending)* |
 | `OpenPoleMount_IV-Pole_v2.stl` | v2 cradle body — universal device holder, available now | 1× |
 | `thumbscrew_v14_flat_Thandle.stl` | T-handle thumbscrew for pole attachment | 1× |
 
@@ -99,7 +99,7 @@ yourself is the primary path — it's free, and you control the material and qua
 
 | Component | Description |
 |---|---|
-| Pump | Curlin CMS6000 Infusion Pump |
+| Equipment | A compact device that fits the pocket envelope (~125 × 100 × 66 mm, up to ~1.4 kg / 3 lb) |
 | Pole | Standard home IV pole (~25 mm / 1 inch diameter) |
 | Attachment | Printed T-handle thumbscrew (included in download) |
 
@@ -117,18 +117,17 @@ hardware: improvements, remixes, and new accessories are the goal.
 ## Looking for v2?
 
 **v2** is still fully released and print-ready — it's now documented as a
-**universal device holder**: its more open pocket may fit several infusion pumps
-or other similar-sized devices, though we don't yet have a confirmed compatibility
-list. It's also the version currently available via print-on-demand order.
+**universal device holder**: its more open pocket may fit a range of similar-sized
+equipment, though we don't yet have a confirmed compatibility list. It's also the version currently available via print-on-demand order.
 
 **[About the v2 universal holder →](iv-pole-v2/index.md)**
 
 ## Looking for v1?
 
-The original **v1** print is still available, but it's **not functional as a pump
-cradle** — the pump buttons and screen are not accessible when the pump is seated in
-v1. v1 is best repurposed as an **accessory box that mounts on the pole below the
-pump** — for alcohol wipes, spare caps, tubing, or other small supplies.
+The original **v1** print is still available, but it's **not functional as an
+equipment cradle** — the device's buttons and screen are not accessible when it's
+seated in v1. v1 is best repurposed as an **accessory box that mounts on the pole
+below the cradle** — for alcohol wipes, spare caps, tubing, or other small supplies.
 
 **[About the v1 accessory box →](print-settings.md)**
 

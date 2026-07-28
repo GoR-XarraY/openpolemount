@@ -18,7 +18,7 @@ attaches to.
 ---
 
 !!! info "This is a base component, not the current cradle"
-    If you're here to **print a cradle for a Curlin CMS6000 pump**, you want the
+    If you're here to **print an equipment cradle**, you want the
     [**v3 cradle**](../iv-pole-v3/index.md) (the current design) — the mounting
     block is already built into it. This page documents the block **on its own**,
     as the shared foundation for the project and for people designing their own
@@ -46,7 +46,7 @@ single part:
 ## Download the files
 
 !!! danger "Load-bearing part — read the print guide first"
-    The block carries the full weight of a pump and a filled IV bag through a
+    The block carries the full weight of equipment and a filled IV bag through a
     single thumbscrew clamp. Wall count and infill are **safety-critical**. Use the
     [shared print settings](../iv-pole-v3/print-settings.md) (PLA, 6 walls, 2 mm
     top/bottom, ≥35 % non-concentric infill) as the minimum.

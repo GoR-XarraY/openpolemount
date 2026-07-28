@@ -1,13 +1,13 @@
 # v1 — Accessory Box (legacy)
 
-!!! info "Use v2 for the pump. Use v1 as an accessory box."
-    **v1 is the original print, and it's not functional as a pump cradle** — the pump
-    buttons and screen are not accessible when the pump is seated in v1. Use the current
-    [**IV Pole Cradle v2**](iv-pole-v2/index.md). If you want to hold the Curlin CMS6000,
-    **print v2 instead**.
+!!! info "Use v2 to hold equipment. Use v1 as an accessory box."
+    **v1 is the original print, and it's not functional as an equipment cradle** — the
+    equipment's buttons and screen are not accessible when it is seated in v1. Use the current
+    [**IV Pole Cradle v2**](iv-pole-v2/index.md). For a general-purpose pocket,
+    **print v2**.
 
     v1 is still useful: it's best repurposed as an **accessory box that mounts on the
-    pole below the pump** — for alcohol wipes, spare caps, tubing, or other small supplies.
+    pole below the cradle** — for alcohol wipes, spare caps, tubing, or other small supplies.
     The print settings, thumbscrew, and OpenPoleMount block are the same as v2, so it
     still clamps to any standard home IV pole.
 
@@ -79,7 +79,7 @@ pull-out and shear strength.
 
 Neither part requires supports. Supports are optional on both:
 
-- **Cradle:** supports are not required. If you use them, place under the pump cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
+- **Cradle:** supports are not required. If you use them, place under the cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
 - **Thumbscrew:** supports are not required. If enabled, the slicer typically places a single layer under the part — this helps hold it in place during printing. A brim works equally well for this purpose.
 
 ## Post-Processing
@@ -90,7 +90,7 @@ After printing:
 2. Clean the thumbscrew threads with a brush if needed
 3. Test-fit thumbscrew in the threaded hole — should turn smoothly by hand
 4. Verify the pole channel diameter matches your IV pole
-5. Check pump fits snugly in the cradle pocket — should not rattle
+5. Check equipment fits snugly in the cradle pocket — should not rattle
 
 ## Verification Before Use
 
@@ -99,8 +99,8 @@ Run through this checklist before mounting any medical equipment:
 - [ ] No visible layer delamination (check by pressing firmly — should not crack or flex excessively)
 - [ ] No significant warping of the base or pole channel
 - [ ] Thumbscrew threads cleanly with no binding or stringing
-- [ ] Dry test: mount on pole without pump, apply firm downward pressure — cradle must not slide
-- [ ] Pump seats fully without rocking or side-to-side movement
+- [ ] Dry test: mount on pole without equipment, apply firm downward pressure — cradle must not slide
+- [ ] Equipment seats fully without rocking or side-to-side movement
 
 If any check fails, **do not use the part** — reprint with corrected settings.
 

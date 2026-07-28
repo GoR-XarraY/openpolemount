@@ -2,7 +2,7 @@
 
 !!! info "Scope of this testing"
     This destruction testing was performed on the v1/v2 cradle body shape. The
-    v3 pocket (smaller, more form-fitted to the Curlin CMS6000) shares the same
+    v3 pocket (smaller, more form-fitted) shares the same
     pole channel, thumbscrew boss, and wall construction method, but **has not yet
     been separately tested to failure**. See the
     [v3 Print Guide](iv-pole-v3/print-settings.md) for current status.
@@ -80,7 +80,7 @@ This demonstrates two critical properties of the design:
 
 1. **Failure is visible and obvious** — a broken mount looks broken. There is no hidden
    or gradual weakening that could go undetected.
-2. **Failure is not catastrophic** — the broken mount retains residual grip. A pump
+2. **Failure is not catastrophic** — the broken mount retains residual grip. Equipment
    hanging from a failed mount would not suddenly drop; there would be time to
    notice and address the problem.
 

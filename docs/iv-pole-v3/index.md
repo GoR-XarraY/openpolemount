@@ -1,16 +1,16 @@
 ---
 title: IV Pole Mount v3
-description: Open source 3D-printable IV pole cradle for the Curlin CMS6000 — a smaller, more form-fitting v3 shape built from user feedback
+description: Open source 3D-printable form-fitting equipment cradle for home IV poles
 image: images/iv-pole-v3/v3-og-image.jpg
 ---
 
 # IV Pole Cradle v3
 
-**The current OpenPoleMount design — a smaller, more form-fitting cradle built
-specifically for the Curlin CMS6000, based on feedback from people using v2.**
+**The current OpenPoleMount design — a smaller, more form-fitting cradle pocket,
+based on feedback from people using v2.**
 
 [![IV Pole Cradle v3 — 3D render, "I.V. Pole v3" and "OpenPoleMount" embossed on the mounting block](../images/iv-pole-v3/v3-stl-render.jpg)](../images/iv-pole-v3/v3-stl-render.jpg)
-*IV Pole Cradle v3 — a tighter, form-fitting pocket sized to the Curlin CMS6000, with the same U-shaped pole channel and thumbscrew boss as v2.*
+*IV Pole Cradle v3 — a tighter, form-fitting pocket (~125 x 100 x 66 mm printed), with the same U-shaped pole channel and thumbscrew boss as v2.*
 
 ---
 
@@ -22,7 +22,7 @@ specifically for the Curlin CMS6000, based on feedback from people using v2.**
     and the OpenPoleMount block standard, same as v1 and v2.
 
     [**v2**](../iv-pole-v2/index.md) is still a good print — it's now documented as a
-    **universal device holder** for other pumps and devices, since its more open
+    **universal device holder** for other devices, since its more open
     pocket shape isn't as tightly fitted to any one device.
 
 !!! warning "STL files coming shortly"
@@ -36,16 +36,16 @@ specifically for the Curlin CMS6000, based on feedback from people using v2.**
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
   <div>
-    <img src="../images/iv-pole-v3/v3-mounted-front.jpg" alt="Curlin CMS6000 in V3 cradle — front view" style="width:100%;border-radius:4px;">
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Front — pump fully seated, keypad and screen accessible</p>
+    <img src="../images/iv-pole-v3/v3-mounted-front.jpg" alt="Equipment cradle v3 — front view, device seated" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Front — the device seats in the pocket with the front face accessible</p>
   </div>
   <div>
     <img src="../images/iv-pole-v3/v3-mounted-angle.jpg" alt="V3 mount — 3/4 angle view" style="width:100%;border-radius:4px;">
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">3/4 angle — pump in the form-fitting cradle pocket</p>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">3/4 angle — device in the form-fitting cradle pocket</p>
   </div>
   <div>
-    <img src="../images/iv-pole-v3/v3-mount-rear.jpg" alt="V3 mount — rear/underside with pump cassette door" style="width:100%;border-radius:4px;">
-    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear/underside — pump cassette door, "I.V. Pole v3" / "OpenPoleMount" embossed on the block</p>
+    <img src="../images/iv-pole-v3/v3-mount-rear.jpg" alt="V3 mount — rear/underside with device cassette door" style="width:100%;border-radius:4px;">
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear/underside — device cassette door, "I.V. Pole v3" / "OpenPoleMount" embossed on the block</p>
   </div>
   <div>
     <img src="../images/iv-pole-v3/v3-thumbscrew-closeup.jpg" alt="T-handle thumbscrew close-up on V3 mount" style="width:100%;border-radius:4px;">
@@ -53,7 +53,9 @@ specifically for the Curlin CMS6000, based on feedback from people using v2.**
   </div>
 </div>
 
-### Curlin CMS6000 — More Views
+### Example Fit — More Views
+
+> User-reported example fit — not a manufacturer claim, not verified for any medical use. Confirm fit yourself before use.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
   <div>

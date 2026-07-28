@@ -9,8 +9,8 @@ and this project uses semantic versioning.
 
 ### Added
 - IV Pole Mount v3 documentation (`docs/iv-pole-v3/`) — overview/photos, print guide,
-  assembly guide — a smaller, more form-fitting cradle for the Curlin CMS6000, built
-  from user feedback on v2
+  assembly guide — a smaller, more form-fitting cradle pocket, built from user
+  feedback on v2
 - 9 new v3 product photos, processed and published under `docs/images/iv-pole-v3/`
 - v3 promoted to the primary/lead design on the homepage, README, and nav
 
@@ -22,6 +22,12 @@ and this project uses semantic versioning.
 - Homepage, README, nav, and social share image (OG/Twitter) updated to lead with v3
 - `docs/testing.md` — added a scope note clarifying the destruction testing applies to
   the v1/v2 shape; v3 has not yet been separately tested
+- **Non-device framing pass** — README, website docs, and social/SEO metadata reworded
+  to describe OpenPoleMount as general-purpose mounting hardware (universal equipment
+  cradle) rather than a pump-specific accessory. Specific-pump fitment is now presented
+  only as user-reported example/community fit notes, not as manufacturer claims. Keeps
+  the project a non-medical-device under FDA's intended-use framework. See
+  `REGULATORY-CLASSIFICATION.md` (repo root — intentionally outside the docs site)
 
 ### Known Issues / Pending
 - v3 STL release files are not yet published — the working files in `stl/` are not in

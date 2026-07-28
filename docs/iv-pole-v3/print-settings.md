@@ -1,8 +1,8 @@
 # Print Guide — IV Pole Mount v3
 
 !!! danger "Safety Note — Read First"
-    This is a load-bearing mount. A Curlin CMS6000 pump with a full IV bag weighs
-    approximately **1.4 kg (3 lbs)**. Print quality directly affects safety.
+    This is a load-bearing mount, rated for equipment up to approximately
+    **1.4 kg (3 lbs)**. Print quality directly affects safety.
     The settings below are **minimums** — you are responsible for verifying
     mechanical integrity before use. See [Safety & Disclaimer](../safety.md).
 
@@ -19,8 +19,8 @@
     fully released and print-ready now.
 
 !!! info "V3 vs V2 — What's Different"
-    IV Pole Mount v3 uses a **smaller, more form-fitting pocket** shaped specifically
-    around the Curlin CMS6000, redesigned from feedback on v2's more open pocket.
+    IV Pole Mount v3 uses a **smaller, more form-fitting pocket** (~125 × 100 × 66 mm
+    printed), redesigned from feedback on v2's more open pocket.
     The pole channel and thumbscrew interface are unchanged. **Print settings below
     carry over the same conservative minimums validated for v1/v2** — the v3 pocket
     itself has not yet been separately destruction-tested. Treat these as a starting
@@ -89,7 +89,7 @@ pull-out and shear strength.
 
 Neither part requires supports. Supports are optional on both:
 
-- **Cradle:** supports are not required. If you use them, place under the pump cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
+- **Cradle:** supports are not required. If you use them, place under the equipment cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
 - **Thumbscrew:** supports are not required. If enabled, the slicer typically places a single layer under the part — this helps hold it in place during printing. A brim works equally well for this purpose.
 
 ## Post-Processing
@@ -100,17 +100,17 @@ After printing:
 2. Clean the thumbscrew threads with a brush if needed
 3. Test-fit thumbscrew in the threaded hole — should turn smoothly by hand
 4. Verify the pole channel diameter matches your IV pole
-5. Check pump fits snugly in the cradle pocket — should not rattle
+5. Check device fits snugly in the cradle pocket — should not rattle
 
 ## Verification Before Use
 
-Run through this checklist before mounting any medical equipment:
+Run through this checklist before mounting any equipment:
 
 - [ ] No visible layer delamination (check by pressing firmly — should not crack or flex excessively)
 - [ ] No significant warping of the base or pole channel
 - [ ] Thumbscrew threads cleanly with no binding or stringing
-- [ ] Dry test: mount on pole without pump, apply firm downward pressure — cradle must not slide
-- [ ] Pump seats fully without rocking or side-to-side movement — **pending George's own
+- [ ] Dry test: mount on pole without equipment, apply firm downward pressure — cradle must not slide
+- [ ] Device seats fully without rocking or side-to-side movement — **pending George's own
       physical fit-test report on the finished v3 print; the photos on the
       [overview page](index.md) show a successful hand-fit but have not been logged
       as a formal verification pass**
