@@ -31,7 +31,10 @@ theme:
 
 nav:
   - Home: index.md
-  - The Mounting Block (Project Foundation): mounting-block/index.md
+  - The Mounting Block (Project Foundation):
+    - Overview: mounting-block/index.md
+    - Bill of Materials: mounting-block/bom.md
+    - Risk Analysis: mounting-block/risk-analysis.md
   - IV Pole Cradle — v3:
     - Overview & Photos: iv-pole-v3/index.md
     - Print It Yourself: iv-pole-v3/print-settings.md
