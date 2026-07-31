@@ -6,7 +6,7 @@ description: If you can't 3D print the OpenPoleMount v2 IV pole cradle yourself,
 # No Printer? Order One
 
 !!! note "Printing it yourself is the goal — this page is the fallback"
-    OpenPoleMount is an open-source medical hardware project, **not a business**.
+    OpenPoleMount is an open-source hardware project, **not a business**.
     The intended path is that you (or a maker friend) **print a cradle yourself
     for free** — see the [v3 Print Guide](iv-pole-v3/print-settings.md) (form-fitted
     pocket) or the [v2 Print Guide](iv-pole-v2/print-settings.md)
@@ -15,10 +15,10 @@ description: If you can't 3D print the OpenPoleMount v2 IV pole cradle yourself,
     is not a profit.
 
 !!! warning "Only v2 is available to order right now"
-    **v3** is the current recommended, more form-fitting design, but its print
-    files aren't finalized for release yet, so print-on-demand isn't set up for it.
-    The order below is for the **v2 universal holder** cradle — it's fully released
-    and print-ready today.
+    **v3** is the current recommended, more form-fitting design, and its
+    [print files are released](iv-pole-v3/print-settings.md) — but print-on-demand
+    isn't set up for it yet. The order below is for the **v2 universal holder**
+    cradle — it's fully released and print-ready today.
 
 If you don't have a 3D printer and can't find a maker nearby, you can have the
 **IV Pole Cradle v2 (universal holder)** printed on demand and shipped to you.

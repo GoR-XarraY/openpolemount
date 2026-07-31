@@ -23,3 +23,16 @@ REGULATORY-CLASSIFICATION.md
 README.draft.md
 OSHWA-CERTIFICATION.md
 OSHWA-CERTIFICATION-CRADLES.md
+TASK-*.md
+AUDIT-FINDINGS-*.md
+PLAN-*.md
+RESEARCH_FINDINGS.md
+RESEARCH_TASK.md
+
+# Local photo staging / archives — not for the public repo
+photos-v3-staging/
+*.zip
+
+# STL working files (publish only clean, named release STLs)
+stl/*_watertight.bumpmesh
+stl/*_textured1.stl

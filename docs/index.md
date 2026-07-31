@@ -47,10 +47,6 @@ universal standard for any accessory on a home IV pole.
 
 ---
 
-!!! warning "v3 STL files are still being finalized"
-    v3's print files are being prepared for public release and aren't published yet.
-    [**v2**](iv-pole-v2/index.md) is fully released, print-ready, and orderable today.
-
 ## Get the v3 cradle
 
 The whole point of this project is **open-source 3D printing**. Printing it
@@ -85,8 +81,8 @@ yourself is the primary path — it's free, and you control the material and qua
 | File | Purpose | Print |
 |---|---|---|
 | [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) | **v3 cradle body** — current design, form-fitted pocket | 1× |
-| `OpenPoleMount_IV-Pole_v2.stl` | v2 cradle body — universal device holder, available now | 1× |
-| `thumbscrew_v14_flat_Thandle.stl` | T-handle thumbscrew for pole attachment | 1× |
+| [`OpenPoleMount_IV-Pole_v2.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v2.stl) | v2 cradle body — universal device holder, available now | 1× |
+| [`thumbscrew_v14_flat_Thandle.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/thumbscrew_v14_flat_Thandle.stl) | T-handle thumbscrew for pole attachment | 1× |
 
 ## Getting Started
 
