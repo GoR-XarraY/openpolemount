@@ -12,7 +12,8 @@ without buying CAD software.
 | `OpenPoleMount_IV-Pole_v3.blend` | IV Pole Cradle v3 (current, form-fitting) |
 | `OpenPoleMount_IV-Pole_v2.blend` | IV Pole Cradle v2 (universal holder) |
 | `OpenPoleMount_IV-Pole_v1.blend` | v1 (accessory box) |
-| `OpenPoleMount_Pole_Mounting_Block_V1.blend` | Pole Mounting Block + thumbscrew interface |
+| `OpenPoleMount_Pole_Mounting_Block_V1.blend` | Pole Mounting Block |
+| `OpenPoleMount_Pole_THandle_Thumbscrew.blend` | T-handle thumbscrew (shared by all designs) |
 
 The ready-to-print STL meshes exported from these sources live in [`stl/`](../stl/).
 
