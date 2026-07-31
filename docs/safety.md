@@ -30,7 +30,7 @@ Work through this checklist every time before mounting equipment:
 
 **Print quality:**
 
-- [ ] Parts printed to the recommended minimums — 6 walls (≈2.4 mm), ≥2 mm top/bottom, ≥35% non-concentric infill (3D honeycomb preferred) — see the [Print Guide](iv-pole-v3/print-settings.md)
+- [ ] Parts printed to the recommended minimums — ≥1 mm walls, ≥2 mm top/bottom, ≥25% non-concentric infill (3D honeycomb preferred) — see the [Print Guide](iv-pole-v3/print-settings.md)
 - [ ] No visible layer delamination — parts do not flex or crack under firm hand pressure
 - [ ] No significant warping — base and pole channel are flat and straight
 - [ ] Thumbscrew threads are clean, smooth, and undamaged

@@ -53,9 +53,9 @@ both parts at or above the shared recommended minimums:
 |---|---|
 | Material | PLA (or PETG) |
 | Layer height | 0.2 mm |
-| Walls | 6 |
+| Walls | ≥1 mm |
 | Top/bottom | 2 mm |
-| Infill | ≥35 %, 3D honeycomb (non-concentric — **not** lines/grid) |
+| Infill | ≥25 %, 3D honeycomb (non-concentric — **not** lines/grid) |
 | Supports | None required |
 | Orientation | Block: pole channel vertical (layers perpendicular to clamp load). Thumbscrew: flat, handle face down. |
 

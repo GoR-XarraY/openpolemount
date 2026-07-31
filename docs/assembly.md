@@ -89,7 +89,7 @@ Do not attempt to slide the cradle while the device is seated in it.
 | Device rocks in the cradle | Wrong device size or print tolerance issue | Verify your device matches the pocket envelope; [open an issue](https://github.com/GoR-XarraY/openpolemount/issues) if it doesn't fit |
 | Thumbscrew won't turn smoothly | Print stringing in threads or warped thread hole | Clean threads with brush; if damaged, reprint thumbscrew |
 | Pole doesn't fit the channel | Pole diameter differs from design | [Open an issue](https://github.com/GoR-XarraY/openpolemount/issues) with your pole diameter |
-| Part cracked during assembly | Over-tightening or under-printed | Reprint at ≥35% infill, 6 walls; hand-tighten only |
+| Part cracked during assembly | Over-tightening or under-printed | Reprint at ≥25% infill, ≥1 mm walls; hand-tighten only |
 
 ---
 

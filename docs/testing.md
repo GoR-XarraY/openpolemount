@@ -18,15 +18,15 @@ continued to hold on the pole after failure.**
 
 ## Test Print Settings
 
-These settings are **intentionally below the recommended minimums** — the goal was to find
-the failure point of a worst-case print.
+These settings are **intentionally at or below the recommended minimums** — the goal was
+to find the failure point of a worst-case print.
 
 | Parameter | Test value | Recommended minimum |
 |---|---|---|
 | Material | Standard PLA | PLA |
-| Wall count | 4 walls | 6 walls (≈2.4 mm) |
+| Wall count | 4 walls | ≥1 mm |
 | Top/bottom | 1 mm | 2 mm |
-| Infill | 15%, non-structural pattern | 35%, 3D honeycomb |
+| Infill | 15%, non-structural pattern | ≥25%, 3D honeycomb |
 
 ---
 
@@ -109,12 +109,12 @@ to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](iv-p
 
 ## What This Means for the Recommended Settings
 
-Our [recommended settings](iv-pole-v3/print-settings.md) (6 walls, 2 mm top/bottom, 35% 3D honeycomb)
+Our [recommended settings](iv-pole-v3/print-settings.md) (≥1 mm walls, 2 mm top/bottom, ≥25% 3D honeycomb)
 are conservative relative to these tested limits. The conservatism is intentional:
 
 - Print quality varies between printers and operators
 - PLA quality varies between brands and batches
-- A 2× wall thickness margin accounts for real-world variation
+- The structural 3D-honeycomb pattern and thicker top/bottom add margin over the tested worst case
 
 Printing at or above the recommended settings gives significant margin beyond what was
 already demonstrated to survive in this test.

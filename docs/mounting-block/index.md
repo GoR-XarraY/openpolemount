@@ -48,8 +48,8 @@ single part:
 !!! danger "Load-bearing part — read the print guide first"
     The block carries the full weight of equipment and a filled IV bag through a
     single thumbscrew clamp. Wall count and infill are **safety-critical**. Use the
-    [shared print settings](../iv-pole-v3/print-settings.md) (PLA, 6 walls, 2 mm
-    top/bottom, ≥35 % non-concentric infill) as the minimum.
+    [shared print settings](../iv-pole-v3/print-settings.md) (PLA, ≥1 mm walls, 2 mm
+    top/bottom, ≥25 % non-concentric infill) as the minimum.
 
 | File | Purpose | Qty |
 |---|---|---|

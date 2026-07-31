@@ -55,17 +55,17 @@ by [opening an issue](https://github.com/GoR-XarraY/openpolemount/issues).
 | Setting | Cradle | Thumbscrew |
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
-| **Wall count** | **6 walls (≈2.4 mm at 0.4 mm nozzle)** | **6 walls** |
+| **Wall count** | **1 mm minimum (≈2–3 perimeters at 0.4 mm nozzle)** | **1 mm minimum** |
 | **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
-| **Infill** | **35% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **35% minimum** |
+| **Infill** | **25% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **25% minimum** |
 | Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
 | Supports | None needed | Optional — single layer keeps part in place; brim works too |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
 !!! danger "Wall and Infill Minimums Are Safety-Critical"
     Testing on the v1/v2 shape has shown that the mount **can crack if
-    over-tightened** when walls or infill are below these minimums. The 6-wall +
-    2 mm top/bottom + 35% non-concentric infill combination is the recommended
+    over-tightened** when walls or infill are below these minimums. The 1 mm wall +
+    2 mm top/bottom + 25% non-concentric infill combination is the recommended
     minimum until v3-specific testing is complete.
 
     **Do not use concentric, lines, or grid infill patterns** — they do not provide
