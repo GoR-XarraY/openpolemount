@@ -72,11 +72,11 @@ Measured directly from the STL geometry:
 
 ## Source files
 
-The published geometry is the STL meshes in the
-[repository](https://github.com/GoR-XarraY/openpolemount) under `stl/`, available
-for remixing under the hardware license (CERN-OHL-W-2.0). Editable source exports
-(STEP) are being prepared for the [`source/`](https://github.com/GoR-XarraY/openpolemount/tree/main/source)
-folder — if you need them sooner, [open an issue](https://github.com/GoR-XarraY/openpolemount/issues).
+Native editable source CAD (Blender `.blend`) for the block lives in the
+repository's [`source/`](https://github.com/GoR-XarraY/openpolemount/tree/main/source)
+folder; the print-ready STL meshes are under
+[`stl/`](https://github.com/GoR-XarraY/openpolemount/tree/main/stl). Both are
+available for remixing under the hardware license (CERN-OHL-W-2.0).
 
 ---
 

@@ -84,7 +84,7 @@ guarantee a compatibility list. To share a fit report, please
 | `stl/OpenPoleMount_IV-Pole_v2.stl` | Equipment cradle v2 — universal device holder, available now (print 1x) |
 | `stl/thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment (print 1x) |
 | `stl/OpenPoleMount_IV-Pole_v1.stl` | v1 — legacy; best used as a pole-mounted accessory box |
-| `source/` | Editable source files (STEP exports in preparation) |
+| [`source/`](source/) | Native editable source files — Blender `.blend` for every design |
 
 ## Quick Start
 

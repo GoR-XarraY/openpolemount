@@ -56,10 +56,10 @@ single part:
 | [`OpenPoleMount_Pole_Mounting_Block_V1.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_Pole_Mounting_Block_V1.stl) | The mounting block (pole clamp + accessory interface) | 1 |
 | [`OpenPoleMount_Pole_Mounting_Block_ThandleThumbscrew-V1.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_Pole_Mounting_Block_ThandleThumbscrew-V1.stl) | Printed T-handle thumbscrew that clamps the block to the pole | 1 |
 
-The published geometry is the STL meshes above, remixable under the hardware
-license. Editable source exports (STEP) are being prepared for the repository's
-[`source/`](https://github.com/GoR-XarraY/openpolemount/tree/main/source) folder —
-if you need them sooner, [open an issue](https://github.com/GoR-XarraY/openpolemount/issues).
+Native editable source CAD (Blender `.blend`) lives in the repository's
+[`source/`](https://github.com/GoR-XarraY/openpolemount/tree/main/source) folder
+(`OpenPoleMount_Pole_Mounting_Block_V1.blend`); the STL meshes above are the
+print-ready exports. Both are remixable under the hardware license.
 
 ## Dimensions
 

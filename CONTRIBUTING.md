@@ -20,7 +20,7 @@ Open an [Issue](https://github.com/GoR-XarraY/openpolemount/issues) if:
    - What you changed and why
    - Photos or renders of the result
    - Updated STL in `stl/`
-   - Updated STEP in `source/`
+   - Updated editable source in `source/` (`.blend` — the project's native format)
 
 ### 3. Add a New Accessory
 Have an idea for a new IV pole accessory that uses the OpenPoleMount block?
@@ -33,8 +33,7 @@ Have an idea for a new IV pole accessory that uses the OpenPoleMount block?
 | Type | Format | Required |
 |---|---|---|
 | Print-ready | `.stl` or `.3mf` | Yes |
-| Source CAD | `.step` / `.stp` | Yes — OSHWA requires editable source |
-| Native CAD | `.f3d`, `.FCStd`, `.sldprt`, etc. | Strongly encouraged |
+| Editable source | `.blend` (project native), `.step`, `.FCStd`, or other editable CAD | Yes — OSHWA requires editable source |
 | Documentation | `README.md` with print settings | Yes |
 
 ## License

@@ -1,30 +1,35 @@
 # Source CAD Files
 
-This folder contains the editable source files for OpenPoleMount hardware designs.
+This folder contains the **native, editable source files** for the OpenPoleMount
+hardware designs. The designs are made in [Blender](https://www.blender.org/) —
+free, open-source software — so anyone can open, edit, and remix these files
+without buying CAD software.
 
-## Available Formats
+## Files
 
-Source files will be published here in STEP (.step / .stp) format, which can be
-opened and modified in any major CAD application (Fusion 360, FreeCAD, SolidWorks,
-CATIA, etc.).
+| File | Design |
+|---|---|
+| `OpenPoleMount_IV-Pole_v3.blend` | IV Pole Cradle v3 (current, form-fitting) |
+| `OpenPoleMount_IV-Pole_v2.blend` | IV Pole Cradle v2 (universal holder) |
+| `OpenPoleMount_IV-Pole_v1.blend` | v1 (accessory box) |
+| `OpenPoleMount_Pole_Mounting_Block_V1.blend` | Pole Mounting Block + thumbscrew interface |
 
-**Coming soon:** STEP exports for v1.0.0 designs.
-
-If you need the editable source files before they are uploaded here, please
-[open an issue](https://github.com/GoR-XarraY/openpolemount/issues) on GitHub.
+The ready-to-print STL meshes exported from these sources live in [`stl/`](../stl/).
 
 ## Why Source Files Matter
 
 Publishing editable source files (not just STL) is a requirement of true open
 source hardware. STL files are like a PDF — anyone can read them but nobody can
-easily edit them. STEP files are like the original document — fully editable.
+easily edit them. These `.blend` files are the original documents — fully editable.
 
-This is also required for [OSHWA certification](https://certification.oshwa.org).
+This satisfies the editable-source expectation of
+[OSHWA certification](https://certification.oshwa.org), using an open-source
+toolchain end to end.
 
-## File Naming Convention
+## Editing
 
-`<design-name>_v<version>.step`
-
-Examples:
-- `OpenPoleMount_IV-Pole_v1.step`
-- `thumbscrew_v14.step`
+Open in Blender 3.x or newer. Units are millimeters at real-world scale — verify
+scale before exporting STL for print (File → Export → STL, apply modifiers).
+Derivatives are welcome under the hardware license
+([CERN-OHL-W-2.0](https://cern-ohl.web.cern.ch/)) — see
+[Contributing](https://openpolemount.com/contributing/).

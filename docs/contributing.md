@@ -19,7 +19,7 @@ The 3D printing community can build the ecosystem.
 1. **Open an Issue first** — describe your accessory idea and get community feedback before investing design time
 2. Fork the repository on GitHub
 3. Create a folder: `accessories/<your-accessory-name>/`
-4. Include: STL file, STEP source, and a `README.md` with print settings
+4. Include: STL file, editable source (`.blend` is the project's native format; STEP or other editable CAD also fine), and a `README.md` with print settings
 5. Submit a Pull Request — include photos of the printed result
 
 ## File Requirements
@@ -29,7 +29,7 @@ Every contributed design must include:
 | File | Required | Notes |
 |---|---|---|
 | `.stl` (print-ready) | Yes | Must be print-ready without manual repair |
-| `.step` (editable source) | Yes | Required for OSHWA compliance and real forkability |
+| Editable source (`.blend`, `.step`, or other editable CAD) | Yes | Required for OSHWA compliance and real forkability |
 | `README.md` | Yes | Print settings, assembly notes, photos |
 | Photos of printed result | Strongly recommended | Increases trust and adoption |
 
