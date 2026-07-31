@@ -29,7 +29,7 @@ All three cradles use this same thumbscrew.
 |---|---|
 | Cradle file | [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) |
 | Printed size (L × W × H) | 125 × 100 × 66 mm |
-| Filament, cradle body | **~109 g** PLA (~88 cm³) · **~91 g** PETG (~74 cm³) |
+| Filament, cradle body | **~109 g** PLA (~88 cm³) · **~91 g** PETG (~74 cm³) — figures come from different slicer profiles, not a material property; your slicer's estimate governs |
 | + thumbscrew | ~14 g |
 | Print time | ~3 h 10 m (PLA, 0.2 mm) |
 
@@ -57,7 +57,7 @@ All three cradles use this same thumbscrew.
 
 | Material | Spec | Notes |
 |---|---|---|
-| PLA (validated) or PETG | 1.75 mm, any reputable brand | No specific brand required. PETG is recommended for higher-stress or warmer environments; it uses near-identical volume, so mass differs only slightly with density (PLA ~1.24, PETG ~1.23–1.27 g/cm³). |
+| PLA (validated) or PETG | 1.75 mm, any reputable brand | No specific brand required. PETG suits higher-stress or warmer environments but is [not yet strength-tested](iv-pole-v3/print-settings.md) for these designs. Where PLA and PETG filament figures differ on this page, they were measured with different slicer profiles — same STL geometry. |
 
 Filament figures above are measured from real single-unit slices at the recommended
 0.2 mm settings; your slicer reports the exact figure for your setup.
