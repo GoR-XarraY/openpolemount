@@ -26,7 +26,7 @@ acknowledge and agree that:
 2. **You must verify that printed parts can safely support the intended load.**
    A typical home infusion device with a full IV bag weighs approximately
    1.4 kg (3 lb). Parts must be printed with appropriate materials and infill to
-   safely support the weight of whatever you mount. See the [Print Guide](https://openpolemount.com/print-settings/)
+   safely support the weight of whatever you mount. See the [Print Guide](https://openpolemount.com/iv-pole-v3/print-settings/)
    for minimum recommended settings — these are starting points, not guarantees.
 
 3. **This design is a reference only.** It has not been load-tested under

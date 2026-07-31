@@ -7,7 +7,7 @@ description: Bill of materials for the OpenPoleMount IV-pole cradles — fully 3
 
 Every OpenPoleMount cradle is **fully 3D-printed**: a cradle body plus the shared
 printed T-handle thumbscrew. There are no proprietary or purchased parts — the only
-consumable is filament. Each cradle is built on the certified
+consumable is filament. Each cradle is built on the
 [OpenPoleMount mounting block](mounting-block/index.md) and clamps to a standard
 IV pole the same way.
 
@@ -81,9 +81,11 @@ Full details: [v3 Print Guide](iv-pole-v3/print-settings.md) ·
 
 ## Source files
 
-Editable source CAD (Blender `*.blend`) lives in the
+The published geometry is the STL meshes in the
 [repository](https://github.com/GoR-XarraY/openpolemount) under `stl/`, available
-for remixing under the hardware license (CERN-OHL-W-2.0).
+for remixing under the hardware license (CERN-OHL-W-2.0). Editable source exports
+(STEP) are being prepared for the [`source/`](https://github.com/GoR-XarraY/openpolemount/tree/main/source)
+folder — if you need them sooner, [open an issue](https://github.com/GoR-XarraY/openpolemount/issues).
 
 ---
 

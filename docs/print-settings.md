@@ -53,16 +53,17 @@ if you print in another material, please share your results by
 | Setting | Cradle | Thumbscrew |
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
-| **Wall count** | **1 mm minimum** | **1 mm minimum** |
-| **Infill** | **25% minimum — non-concentric pattern** | **25% minimum** |
-| Infill pattern | Non-concentric — **not** lines, grid, or concentric | same |
+| **Wall count** | **6 walls (≈2.4 mm at 0.4 mm nozzle)** | **6 walls** |
+| **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
+| **Infill** | **35% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **35% minimum** |
+| Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
 | Supports | None needed | Optional — single layer keeps part in place; brim works too |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
 !!! danger "Wall and Infill Minimums Are Safety-Critical"
     Testing has shown that the mount **can crack if over-tightened** when walls
-    or infill are below these minimums. The 1 mm walls + 25% non-concentric infill
-    combination is the recommended minimum.
+    or infill are below these minimums. The 6-wall + 2 mm top/bottom + 35%
+    non-concentric infill combination is the recommended minimum.
 
     **Do not use concentric, lines, or grid infill patterns** — they do not provide
     the same resistance to the stress concentration from the thumbscrew.

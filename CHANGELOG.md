@@ -30,9 +30,9 @@ and this project uses semantic versioning.
   `REGULATORY-CLASSIFICATION.md` (repo root — intentionally outside the docs site)
 
 ### Known Issues / Pending
-- v3 STL release files are not yet published — the working files in `stl/` are not in
-  the release-ready format used for v1/v2. Print-on-demand ordering and downloadable
-  STL links for v3 are not yet live.
+- ~~v3 STL release files are not yet published~~ — resolved 2026-07-28: `stl/OpenPoleMount_IV-Pole_v3.stl`
+  is published and linked from the site. Print-on-demand ordering for v3 is still pending (v2 remains
+  the orderable version).
 
 ## [1.1.0] - 2026-06-17
 

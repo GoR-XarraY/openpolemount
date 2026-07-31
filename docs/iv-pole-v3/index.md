@@ -92,9 +92,9 @@ based on feedback from people using v2.**
 </div>
 
 <div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1rem 0;">
-  No printer or maker nearby? The v3 print-on-demand order isn't set up yet — while
-  we finalize the v3 release files, the [v2 cradle](../iv-pole-v2/index.md) is
-  available print-on-demand via Slant 3D / Teleport.
+  No printer or maker nearby? The v3 print-on-demand order isn't set up yet — for
+  now, the [v2 cradle](../iv-pole-v2/index.md) is available print-on-demand via
+  Slant 3D / Teleport.
   <a href="../order/">No printer? Order one →</a>
 </div>
 

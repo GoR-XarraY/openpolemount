@@ -24,9 +24,9 @@ the failure point of a worst-case print.
 | Parameter | Test value | Recommended minimum |
 |---|---|---|
 | Material | Standard PLA | PLA |
-| Wall count | 4 layers | 2 mm |
+| Wall count | 4 walls | 6 walls (≈2.4 mm) |
 | Top/bottom | 1 mm | 2 mm |
-| Infill | 15%, non-structural pattern | 15%, 3D honeycomb |
+| Infill | 15%, non-structural pattern | 35%, 3D honeycomb |
 
 ---
 
@@ -103,13 +103,13 @@ When the mount does fail (under extreme, sustained over-tightening):
 ### Over-tightening is the only realistic failure path
 Normal hand-tightening cannot reach the force levels required to cause failure.
 The failure in testing required sustained deliberate force far beyond what is needed
-to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](assembly.md).
+to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](iv-pole-v3/assembly.md).
 
 ---
 
 ## What This Means for the Recommended Settings
 
-Our [recommended settings](print-settings.md) (6 walls, 2 mm top/bottom, 35% 3D honeycomb)
+Our [recommended settings](iv-pole-v3/print-settings.md) (6 walls, 2 mm top/bottom, 35% 3D honeycomb)
 are conservative relative to these tested limits. The conservatism is intentional:
 
 - Print quality varies between printers and operators

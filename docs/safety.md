@@ -26,11 +26,11 @@ for the complete legal disclaimer.
 
 ## Before First Use — Safety Checklist
 
-Work through this checklist every time before mounting medical equipment:
+Work through this checklist every time before mounting equipment:
 
 **Print quality:**
 
-- [ ] Parts printed in PLA with ≥1 mm walls, ≥25% non-concentric infill
+- [ ] Parts printed to the recommended minimums — 6 walls (≈2.4 mm), ≥2 mm top/bottom, ≥35% non-concentric infill (3D honeycomb preferred) — see the [Print Guide](iv-pole-v3/print-settings.md)
 - [ ] No visible layer delamination — parts do not flex or crack under firm hand pressure
 - [ ] No significant warping — base and pole channel are flat and straight
 - [ ] Thumbscrew threads are clean, smooth, and undamaged
@@ -39,8 +39,8 @@ Work through this checklist every time before mounting medical equipment:
 
 - [ ] Thumbscrew engages cleanly and holds firm under hand pressure
 - [ ] Cradle mounted on pole — does not slide under firm downward push
-- [ ] Pump seats fully in the cradle without rocking or side movement
-- [ ] IV tubing exits pump without creating tension on the mount
+- [ ] Device seats fully in the cradle without rocking or side movement
+- [ ] Any tubing or cabling exits the device without creating tension on the mount
 
 **Environment:**
 
@@ -54,7 +54,7 @@ Work through this checklist every time before mounting medical equipment:
 
 | Question | Contact |
 |---|---|
-| Pump use and care | Your home health agency or infusion supplier |
+| Equipment use and care | Your equipment supplier or home health agency |
 | IV pole setup | Your home health nurse |
 | Print quality issues | [Open a GitHub issue](https://github.com/GoR-XarraY/openpolemount/issues) |
 | Medical safety questions | Your healthcare provider |
@@ -76,4 +76,4 @@ compliance officer before use.
 
 ---
 
-*Last reviewed: 2026-06-08*
+*Last reviewed: 2026-07-30*

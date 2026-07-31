@@ -31,7 +31,7 @@ point at the recommended print settings. Verify safe support of your own load fi
 
 | # | Hazard | Cause | Effect | Mitigation |
 |---|---|---|---|---|
-| 1 | Object does not seat fully | Object larger than the form-fitting pocket | Poor seating; object sits high or proud | v3's pocket is sized to a compact envelope (~124 × 99 × 65 mm). Check your object fits before relying on it; use [v2](../iv-pole-v2/index.md) for a more open pocket, or resize the model. |
+| 1 | Object does not seat fully | Object larger than the form-fitting pocket | Poor seating; object sits high or proud | v3's pocket is sized to hold a compact device (body prints at about 125 × 100 × 66 mm — see the [BOM](../cradle-bom.md)). Check your object fits before relying on it; use [v2](../iv-pole-v2/index.md) for a more open pocket, or resize the model. |
 | 2 | Object rocks in the pocket | Object smaller than the pocket | Movement under load | The form-fitting v3 pocket minimises this vs. an open holder, but confirm a snug fit; add a shim or reprint scaled if loose. |
 | 3 | Front face obstructed | Object oriented wrong way in the pocket | Controls/screen not reachable | Seat the object with its front face outward — the v3 pocket is shaped to keep the front accessible. |
 | 4 | Cabling strain | Cable/tubing routed under tension | Pull on the mount or the object | Route cabling with slack so it exits without tension (see [Assembly](assembly.md)). |
