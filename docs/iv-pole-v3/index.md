@@ -70,6 +70,43 @@ based on feedback from people using v2.**
   </div>
 </div>
 
+### PETG print — textured finish
+
+A v3 cradle printed in PETG with a textured build plate — same STL, different material and finish.
+
+> User-reported example fit — not a manufacturer claim, not verified for any medical use. Confirm fit yourself before use.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-front.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-front.jpg" alt="PETG-printed v3 cradle, front view with device in place, textured finish visible" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Front view — textured PETG print, same pocket dimensions as the standard PLA cradle</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-full-setup.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-full-setup.jpg" alt="Full IV pole setup with PETG-printed v3 cradle mounted near the base" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Full pole setup — PETG cradle mounted on the pole, same clamp and thumbscrew as PLA prints</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-side-thumbscrew.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-side-thumbscrew.jpg" alt="Side view of PETG v3 cradle showing pole clamp and printed thumbscrew" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Side view — printed T-handle thumbscrew and pole clamp, textured PETG surface</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-clamp-detail.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-clamp-detail.jpg" alt="Close-up of PETG mounting block and thumbscrew, textured layer lines visible" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Mounting block detail — textured build-plate finish on the PETG print, layer lines visible on the clamp</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-rear-branding.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-rear-branding.jpg" alt="Rear of PETG v3 cradle showing embossed OpenPoleMount branding on the mounting block" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Rear/underside — "OpenPoleMount" embossed on the mounting block, printed in PETG</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-front-quarter.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-front-quarter.jpg" alt="3/4 angle view of PETG v3 cradle with device seated, textured finish" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">3/4 angle — device seated in the PETG-printed pocket, textured build-plate finish</p>
+  </div>
+  <div>
+    <a href="../images/iv-pole-v3/petg/v3-petg-pocket-top.jpg"><img src="../images/iv-pole-v3/petg/v3-petg-pocket-top.jpg" alt="Close-up of PETG cradle pocket wall and mounting block edge" style="width:100%;border-radius:4px;"></a>
+    <p style="font-size:0.85em;color:#666;margin-top:0.4rem;">Pocket wall and mounting block edge — PETG print, textured surface</p>
+  </div>
+</div>
+
 ### Cradle Detail — Empty
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.5rem 0;">

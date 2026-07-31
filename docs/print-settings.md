@@ -1,4 +1,4 @@
-# v1 — Accessory Box (legacy)
+# v1 — Accessory Box: About & Printing
 
 !!! info "Use v2 to hold equipment. Use v1 as an accessory box."
     **v1 is the original print, and it's not functional as an equipment cradle** — the
@@ -25,7 +25,7 @@ Download from [GitHub Releases](https://github.com/GoR-XarraY/openpolemount/rele
 
 | File | Purpose | Quantity |
 |---|---|---|
-| `OpenPoleMount_IV-Pole_v1.stl` | IV pole cradle | 1 |
+| `OpenPoleMount_IV-Pole_v1.stl` | Accessory box | 1 |
 | `thumbscrew_v14_flat_Thandle.stl` | Thumbscrew for pole attachment | 1 |
 
 !!! success "Tested to Destruction (2026-06-09)"
@@ -50,7 +50,7 @@ if you print in another material, please share your results by
 
 ## Recommended Print Settings (PLA, tested)
 
-| Setting | Cradle | Thumbscrew |
+| Setting | Box | Thumbscrew |
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
 | **Wall count** | **1 mm minimum (≈2–3 perimeters at 0.4 mm nozzle)** | **1 mm minimum** |
@@ -70,7 +70,7 @@ if you print in another material, please share your results by
 
 ## Part Orientation
 
-**Cradle:** Print with the pole channel vertical (mounting hole facing up). This
+**Box:** Print with the pole channel vertical (mounting hole facing up). This
 orients layer lines perpendicular to the primary load direction, maximizing
 pull-out and shear strength.
 
@@ -80,7 +80,7 @@ pull-out and shear strength.
 
 Neither part requires supports. Supports are optional on both:
 
-- **Cradle:** supports are not required. If you use them, place under the cradle pocket. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
+- **Box:** supports are not required. If you use them, place under the box cavity. Tree or Normal both work; 45° threshold; 2–3 interface layers for clean removal.
 - **Thumbscrew:** supports are not required. If enabled, the slicer typically places a single layer under the part — this helps hold it in place during printing. A brim works equally well for this purpose.
 
 ## Post-Processing
@@ -91,21 +91,21 @@ After printing:
 2. Clean the thumbscrew threads with a brush if needed
 3. Test-fit thumbscrew in the threaded hole — should turn smoothly by hand
 4. Verify the pole channel diameter matches your IV pole
-5. Check equipment fits snugly in the cradle pocket — should not rattle
+5. Check the box cavity is clean and free of stringing so contents don't snag
 
 ## Verification Before Use
 
-Run through this checklist before mounting any medical equipment:
+Run through this checklist before mounting the box:
 
 - [ ] No visible layer delamination (check by pressing firmly — should not crack or flex excessively)
 - [ ] No significant warping of the base or pole channel
 - [ ] Thumbscrew threads cleanly with no binding or stringing
-- [ ] Dry test: mount on pole without equipment, apply firm downward pressure — cradle must not slide
-- [ ] Equipment seats fully without rocking or side-to-side movement
+- [ ] Dry test: mount on pole without contents, apply firm downward pressure — box must not slide
+- [ ] Box sits level on the pole without rocking or side-to-side movement
 
 If any check fails, **do not use the part** — reprint with corrected settings.
 
 !!! warning "Over-Tightening Risk"
     Once mounted, tighten the thumbscrew hand-tight plus one quarter-turn only.
-    Over-tightening is the primary cause of cradle failure even in correctly
+    Over-tightening is the primary cause of box failure even in correctly
     printed parts. See the [Assembly Guide](assembly.md) for tightening instructions.
