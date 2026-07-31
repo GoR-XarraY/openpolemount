@@ -26,6 +26,7 @@
 | File | Purpose | Quantity |
 |---|---|---|
 | [`OpenPoleMount_IV-Pole_v3.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/OpenPoleMount_IV-Pole_v3.stl) | IV pole cradle (v3 shape) | 1 |
+| [`OpenPoleMount_IV-Pole_v3_textured.stl`](https://github.com/GoR-XarraY/openpolemount/releases/download/v3.0.0/OpenPoleMount_IV-Pole_v3_textured.stl) | Optional variant — textured surface finish baked into the mesh (larger file, ~20 MB; same fit and print settings) | 1 (instead of the standard body) |
 | [`thumbscrew_v14_flat_Thandle.stl`](https://github.com/GoR-XarraY/openpolemount/raw/main/stl/thumbscrew_v14_flat_Thandle.stl) | Thumbscrew for pole attachment (same part as v1/v2) | 1 |
 
 !!! info "Testing Status — Pending"

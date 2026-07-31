@@ -72,7 +72,7 @@ based on feedback from people using v2.**
 
 ### PETG print — textured finish
 
-A v3 cradle printed in PETG with a textured build plate — same STL, different material and finish.
+A v3 cradle printed in PETG from the [textured-surface STL variant](https://github.com/GoR-XarraY/openpolemount/releases/download/v3.0.0/OpenPoleMount_IV-Pole_v3_textured.stl) — same fit and print settings as the standard body, with the surface texture baked into the mesh.
 
 > User-reported example fit — not a manufacturer claim, not verified for any medical use. Confirm fit yourself before use.
 
