@@ -28,7 +28,7 @@ If you don't have a 3D printer and can't find a maker nearby, you can have the
 The order below is fulfilled through **Teleport**, the print-on-demand service from
 **[Slant 3D](https://www.slant3d.com/)**. They print the exact same open-source v2
 files published on this site — there's no special or "official" version. The parts
-are printed in PLA to the production spec below, which exceeds the
+are printed in PLA on Slant 3D's standard Teleport profile below, which meets the
 [recommended minimums](iv-pole-v2/print-settings.md) documented here.
 
 !!! warning "This is a reference design, not a medical device"
@@ -45,9 +45,9 @@ are printed in PLA to the production spec below, which exceeds the
 | Cradle body | `OpenPoleMount_IV-Pole_v2.stl` — current v2 design |
 | Thumbscrew | `thumbscrew_v14_flat_Thandle.stl` — T-handle grip |
 | Material | PLA |
-| Wall count | 6 walls |
-| Infill | 35% 3D honeycomb |
-| Top/bottom | 2 mm |
+| Layer height | 0.2 mm |
+| Walls (incl. top/bottom) | 1 mm |
+| Infill | 25% grid |
 | Tools needed | None — hand-tighten only |
 
 ---

@@ -71,8 +71,8 @@ All cradles print at or above the shared recommended minimums:
 | Material | PLA (or PETG) |
 | Layer height | 0.2 mm |
 | Walls | ≥1 mm |
-| Top/bottom | 2 mm |
-| Infill | ≥25 %, 3D honeycomb (non-concentric — **not** lines/grid) |
+| Top/bottom | ≥1 mm |
+| Infill | ≥25 %, any non-concentric pattern (grid OK — **not** concentric) |
 | Supports | None required |
 | Orientation | Cradle: pole channel vertical (layers perpendicular to clamp load). Thumbscrew: flat, handle face down. |
 

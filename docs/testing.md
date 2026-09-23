@@ -25,8 +25,8 @@ to find the failure point of a worst-case print.
 |---|---|---|
 | Material | Standard PLA | PLA |
 | Wall count | 4 walls | ≥1 mm |
-| Top/bottom | 1 mm | 2 mm |
-| Infill | 15%, non-structural pattern | ≥25%, 3D honeycomb |
+| Top/bottom | 1 mm | ≥1 mm |
+| Infill | 15%, non-structural pattern | ≥25%, non-concentric (grid OK) |
 
 ---
 
@@ -109,12 +109,12 @@ to securely mount the cradle. **Do not over-tighten.** See [Assembly Guide](iv-p
 
 ## What This Means for the Recommended Settings
 
-Our [recommended settings](iv-pole-v3/print-settings.md) (≥1 mm walls, 2 mm top/bottom, ≥25% 3D honeycomb)
+Our [recommended settings](iv-pole-v3/print-settings.md) (≥1 mm walls, ≥1 mm top/bottom, ≥25% non-concentric infill)
 are conservative relative to these tested limits. The conservatism is intentional:
 
 - Print quality varies between printers and operators
 - PLA quality varies between brands and batches
-- The structural 3D-honeycomb pattern and thicker top/bottom add margin over the tested worst case
+- 25% infill (vs. 15% in the test) adds margin over the tested worst case; top/bottom thickness matches the tested print
 
 Printing at or above the recommended settings gives significant margin beyond what was
 already demonstrated to survive in this test.

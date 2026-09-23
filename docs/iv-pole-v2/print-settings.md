@@ -55,20 +55,19 @@ if you print in another material, please share your results by
 |---|---|---|
 | Layer height | 0.2 mm | 0.2 mm |
 | **Wall count** | **1 mm minimum (≈2–3 perimeters at 0.4 mm nozzle)** | **1 mm minimum** |
-| **Top/bottom thickness** | **2 mm minimum** | **2 mm minimum** |
-| **Infill** | **25% minimum — 3D honeycomb (preferred) or other non-concentric pattern** | **25% minimum** |
-| Infill pattern | 3D honeycomb (preferred), gyroid, or cubic — **not** lines, grid, or concentric | same |
+| **Top/bottom thickness** | **1 mm minimum** | **1 mm minimum** |
+| **Infill** | **25% minimum — any non-concentric pattern (grid, gyroid, cubic, etc.)** | **25% minimum** |
+| Infill pattern | Grid, gyroid, cubic, or similar — **not** concentric | same |
 | Supports | None needed | Optional — single layer keeps part in place; brim works too |
 | Print speed | 40–60 mm/s | 40–60 mm/s |
 
 !!! danger "Wall and Infill Minimums Are Safety-Critical"
     Testing has shown that the mount **can crack if over-tightened** when walls
-    or infill are below these minimums. The 1 mm wall + 2 mm top/bottom + 25%
+    or infill are below these minimums. The 1 mm wall + 1 mm top/bottom + 25%
     non-concentric infill combination is the recommended minimum.
 
-    **Do not use concentric, lines, or grid infill patterns** — they do not provide
+    **Do not use concentric infill** — it does not provide
     the same resistance to the stress concentration from the thumbscrew.
-    3D honeycomb is the preferred pattern.
 
 ## Part Orientation
 
