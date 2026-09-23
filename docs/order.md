@@ -49,7 +49,7 @@ printed on Slant 3D's standard Teleport profile below, which meets the
 | Tools needed | None — hand-tighten only |
 
 <div style="display:flex;justify-content:center;margin:2rem 0;">
-  <iframe title="OpenPoleMount Universal Equipment Cradle v3 - PETG" width="500" height="1500"
+  <iframe title="OpenPoleMount Universal Equipment Cradle v3 - PETG" width="500" height="1900"
     src="https://teleportpod.com/portal/8d65528f-d89b-4859-a95e-49c19c678b32?item=8264"
     frameborder="0" style="border-radius:8px;max-width:100%;">
   </iframe>
