@@ -7,6 +7,16 @@ and this project uses semantic versioning.
 
 ## [Unreleased]
 
+### 2026-09-22
+- **Print minimums now match Slant 3D's actual Teleport profile** (0.2 mm layers,
+  1 mm walls on every face, 25% grid infill): the 3D-honeycomb preference and the
+  "no grid" rule were dropped, and the top/bottom minimum is now 1 mm. The order page's
+  old "6 walls / 35% honeycomb" production spec was wrong and has been corrected.
+- **v3 is now orderable** in PETG (Black, White, Carbon Fiber) via Slant 3D / Teleport,
+  $30 + shipping; v2 stays available in PLA ($25 + shipping).
+- Removed "at cost / no profit" wording from the homepage, README and v2 page.
+- Order page now notes that PETG has not yet been strength-tested by the project.
+
 ### Added
 - IV Pole Mount v3 documentation (`docs/iv-pole-v3/`) — overview/photos, print guide,
   assembly guide — a smaller, more form-fitting cradle pocket, built from user

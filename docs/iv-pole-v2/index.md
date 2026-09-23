@@ -137,7 +137,7 @@ the recommended holder for this or any specific device.
 </div>
 
 <div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1rem 0;">
-  No printer or maker nearby? You can have v2 printed on demand and shipped at cost via
+  No printer or maker nearby? You can have v2 printed on demand and shipped via
   Slant 3D / Teleport — a fallback, not the goal. <a href="../order/">No printer? Order one →</a>
 </div>
 

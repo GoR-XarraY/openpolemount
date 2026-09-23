@@ -8,8 +8,7 @@
 
 > **This is not a business — it's an open-source hardware project.** Every file is
 > free. The goal is that anyone who needs a cradle can print one themselves. A
-> print-on-demand option exists only so people without a printer aren't left out,
-> at cost.
+> print-on-demand option exists so people without a printer aren't left out.
 
 > ⚠️ **NOT A MEDICAL DEVICE — REFERENCE DESIGN ONLY.** OpenPoleMount is
 > general-purpose mounting hardware provided for informational and educational
@@ -93,9 +92,8 @@ guarantee a compatibility list. To share a fit report, please
 3. **Assemble** — see the [v3 Assembly Guide](https://openpolemount.com/iv-pole-v3/assembly/)
 4. **Read the disclaimer** — [DISCLAIMER.md](DISCLAIMER.md)
 
-No printer? v2 can be printed on demand and shipped at cost via Slant 3D / Teleport
-— see [openpolemount.com](https://openpolemount.com/order/). (v3 print-on-demand
-isn't set up yet.)
+No printer? v3 (PETG) and v2 (PLA) can be printed on demand and shipped via
+Slant 3D / Teleport — see [openpolemount.com/order](https://openpolemount.com/order/).
 
 ## Website & Documentation
 

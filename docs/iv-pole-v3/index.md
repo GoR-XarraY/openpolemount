@@ -129,8 +129,7 @@ A v3 cradle printed in PETG from the [textured-surface STL variant](https://gith
 </div>
 
 <div style="font-size:0.85rem;color:var(--md-default-fg-color--light);margin:1rem 0;">
-  No printer or maker nearby? The v3 print-on-demand order isn't set up yet — for
-  now, the [v2 cradle](../iv-pole-v2/index.md) is available print-on-demand via
+  No printer or maker nearby? v3 can be printed in PETG on demand and shipped via
   Slant 3D / Teleport.
   <a href="../order/">No printer? Order one →</a>
 </div>

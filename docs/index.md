@@ -10,8 +10,8 @@
 !!! note "This is not a business — it's an open-source hardware project"
     Every file here is free. The goal is simple: that anyone who needs a cradle can
     **print one themselves**, and that the community can build on the design. There is
-    nothing to buy to use this project. A print-on-demand option exists only so people
-    **without a printer** aren't left out — at cost, not for profit.
+    nothing to buy to use this project. A print-on-demand option exists so people
+    **without a printer** aren't left out.
 
 !!! warning "Reference Design — Not a Medical Device"
     These files are provided for informational and educational purposes only.
@@ -65,10 +65,9 @@ yourself is the primary path — it's free, and you control the material and qua
 <div style="padding:1.25rem 1.5rem;background:var(--md-code-bg-color);border-radius:8px;border-left:4px solid #888;margin:1rem 0;">
   <div style="font-size:1rem;font-weight:700;margin-bottom:0.35rem;">📦 No printer nearby? Order a print.</div>
   <div style="font-size:0.875rem;color:var(--md-default-fg-color--light);margin-bottom:0.85rem;">
-    Print-on-demand for v3 isn't set up yet. In the meantime, the
-    <strong>v2 universal holder</strong> cradle + thumbscrew can be printed and
-    shipped at cost via <strong>Slant 3D / Teleport</strong>. No profit — this is a
-    fallback for people without printer access.
+    The <strong>v3</strong> cradle + thumbscrew can be printed in PETG and shipped
+    via <strong>Slant 3D / Teleport</strong> (v2 in PLA too) — a fallback for people
+    without printer access.
   </div>
   <a href="order/" style="display:inline-block;padding:0.45rem 1.1rem;background:#555;color:white;border-radius:4px;text-decoration:none;font-size:0.9rem;font-weight:600;">Order a print →</a>
 </div>
