@@ -7,6 +7,12 @@ and this project uses semantic versioning.
 
 ## [Unreleased]
 
+### 2026-09-28
+- **Order page: v3 PETG Black listing replaced** (Teleport item 8264 → 8299). The old
+  item's card under "Other options" showed the thumbscrew instead of the cradle, and
+  Teleport's default-image setting would not save; the new item lists the cradle first.
+  Same title, description, files, filament and $30 price. Item 8264 is disabled, not deleted.
+
 ### 2026-09-22
 - **Print minimums now match Slant 3D's actual Teleport profile** (0.2 mm layers,
   1 mm walls on every face, 25% grid infill): the 3D-honeycomb preference and the
