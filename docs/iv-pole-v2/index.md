@@ -6,6 +6,16 @@ image: images/iv-pole-v2/v2-og-image.jpg
 
 # IV Pole Cradle v2 — Universal Device Holder
 
+<div style="display:flex;align-items:center;gap:1rem;padding:0.9rem 1rem;margin:1rem 0 1.5rem;border-radius:10px;border:1px solid var(--md-default-fg-color--lightest);">
+  <a href="https://certification.oshwa.org/us002863.html" style="flex:none;display:block;background:#fff;border-radius:8px;padding:8px;" title="OSHWA certificate US002863">
+    <img src="../../images/oshwa/US002863-stacked.svg" alt="OSHW certification mark US002863" width="84" height="68" style="display:block;">
+  </a>
+  <div><strong>Certified open source hardware</strong> — the v2 universal holder is OSHWA certificate
+  <a href="https://certification.oshwa.org/us002863.html">US002863</a>. (Its first listing, July 2026, is <a href="https://certification.oshwa.org/us002834.html">US002834</a>.)
+  <a href="../../certification/">About the certifications →</a></div>
+</div>
+
+
 **A general-purpose pocket for a home IV pole. Its more open shape isn't fitted to
 one specific device, so it may hold several different small devices — not just one
 model.**

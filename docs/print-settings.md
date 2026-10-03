@@ -1,5 +1,15 @@
 # v1 — Accessory Box: About & Printing
 
+<div style="display:flex;align-items:center;gap:1rem;padding:0.9rem 1rem;margin:1rem 0 1.5rem;border-radius:10px;border:1px solid var(--md-default-fg-color--lightest);">
+  <a href="https://certification.oshwa.org/us002862.html" style="flex:none;display:block;background:#fff;border-radius:8px;padding:8px;" title="OSHWA certificate US002862">
+    <img src="../images/oshwa/US002862-stacked.svg" alt="OSHW certification mark US002862" width="84" height="68" style="display:block;">
+  </a>
+  <div><strong>Certified open source hardware</strong> — the v1 accessory box is OSHWA certificate
+  <a href="https://certification.oshwa.org/us002862.html">US002862</a>.
+  <a href="../certification/">About the certifications →</a></div>
+</div>
+
+
 !!! info "Use v2 to hold equipment. Use v1 as an accessory box."
     **v1 is the original print, and it's not functional as an equipment cradle** — the
     equipment's buttons and screen are not accessible when it is seated in v1. Use the current

@@ -6,6 +6,16 @@ image: images/iv-pole-v3/v3-og-image.jpg
 
 # IV Pole Cradle v3
 
+<div style="display:flex;align-items:center;gap:1rem;padding:0.9rem 1rem;margin:1rem 0 1.5rem;border-radius:10px;border:1px solid var(--md-default-fg-color--lightest);">
+  <a href="https://certification.oshwa.org/us002864.html" style="flex:none;display:block;background:#fff;border-radius:8px;padding:8px;" title="OSHWA certificate US002864">
+    <img src="../../images/oshwa/US002864-stacked.svg" alt="OSHW certification mark US002864" width="84" height="68" style="display:block;">
+  </a>
+  <div><strong>Certified open source hardware</strong> — the IV Pole Cradle v3 is OSHWA certificate
+  <a href="https://certification.oshwa.org/us002864.html">US002864</a>.
+  <a href="../../certification/">About the certifications →</a></div>
+</div>
+
+
 **The current OpenPoleMount design — a smaller, more form-fitting cradle pocket,
 based on feedback from people using v2.**
 

@@ -6,6 +6,20 @@
 
 **An open-source, 3D-printable universal equipment cradle — and an open mounting standard for home IV poles.**
 
+### 🎉 Certified Open Source Hardware
+
+Every cradle in the line is certified by the [Open Source Hardware Association](https://certification.oshwa.org/):
+
+| | Hardware | OSHWA UID | Certified |
+|---|---|---|---|
+| [<img src="docs/images/oshwa/US002864-wide.svg" alt="OSHW US002864" height="44">](https://certification.oshwa.org/us002864.html) | IV Pole Cradle v3 (current) | [US002864](https://certification.oshwa.org/us002864.html) | 2026-10-03 |
+| [<img src="docs/images/oshwa/US002863-wide.svg" alt="OSHW US002863" height="44">](https://certification.oshwa.org/us002863.html) | IV Pole Cradle v2 (Universal Holder) | [US002863](https://certification.oshwa.org/us002863.html) | 2026-10-03 |
+| [<img src="docs/images/oshwa/US002862-wide.svg" alt="OSHW US002862" height="44">](https://certification.oshwa.org/us002862.html) | IV Pole Accessory Box (v1) | [US002862](https://certification.oshwa.org/us002862.html) | 2026-10-03 |
+| [<img src="docs/images/oshwa/US002834-wide.svg" alt="OSHW US002834" height="44">](https://certification.oshwa.org/us002834.html) | IV Pole Cradle (first listing) | [US002834](https://certification.oshwa.org/us002834.html) | 2026-07-10 |
+
+OSHWA certifies that the design is open (public sources, open licenses). It is not a
+safety or medical certification. Details: [openpolemount.com/certification](https://openpolemount.com/certification/)
+
 > **This is not a business — it's an open-source hardware project.** Every file is
 > free. The goal is that anyone who needs a cradle can print one themselves. A
 > print-on-demand option exists so people without a printer aren't left out.

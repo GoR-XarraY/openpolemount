@@ -5,6 +5,24 @@
 [![Compact device seated in the OpenPoleMount v3 cradle on a home IV pole](images/iv-pole-v3/v3-mounted-front.jpg)](iv-pole-v3/index.md)
 *The current design — **IV Pole Cradle v3** — a smaller, more form-fitting cradle, refined from feedback on v2.*
 
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:1rem 1.5rem;padding:1.25rem 1.4rem;margin:1.5rem 0;border-radius:12px;border:2px solid #FF4444;background:var(--md-code-bg-color);">
+  <a href="certification/" style="flex:none;display:block;background:#fff;border-radius:10px;padding:10px;">
+    <img src="images/oshwa/US002864-stacked.svg" alt="OSHW certification mark US002864" width="110" height="89" style="display:block;">
+  </a>
+  <div style="flex:1 1 18rem;">
+    <div style="font-size:1.35rem;font-weight:800;line-height:1.25;">🎉 Certified Open Source Hardware</div>
+    <div style="margin:0.35rem 0 0.6rem;color:var(--md-default-fg-color--light);">
+      The v3 cradle, the v2 universal holder and the v1 accessory box are all certified by the
+      <strong>Open Source Hardware Association</strong> —
+      <a href="https://certification.oshwa.org/us002864.html">US002864</a>,
+      <a href="https://certification.oshwa.org/us002863.html">US002863</a>,
+      <a href="https://certification.oshwa.org/us002862.html">US002862</a> and
+      <a href="https://certification.oshwa.org/us002834.html">US002834</a>.
+    </div>
+    <a href="certification/" class="md-button md-button--primary">See the certifications</a>
+  </div>
+</div>
+
 ---
 
 !!! note "This is not a business — it's an open-source hardware project"

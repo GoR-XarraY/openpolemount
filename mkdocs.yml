@@ -31,6 +31,7 @@ theme:
 
 nav:
   - Home: index.md
+  - OSHWA Certified: certification.md
   - The Mounting Block (Project Foundation):
     - Overview: mounting-block/index.md
     - Bill of Materials: mounting-block/bom.md

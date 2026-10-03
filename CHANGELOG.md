@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project uses semantic versioning.
 
+
+## 2026-10-03 — OSHWA certified open source hardware
+- OSHWA certified the v1 accessory box (US002862), the v2 universal holder (US002863) and the v3 cradle (US002864); the first listing, US002834, dates from 2026-07-10.
+- New Certification page, homepage banner, certification marks on the v1/v2/v3 pages, README table. Official mark files (unaltered, downloaded from each certificate page) in docs/images/oshwa/ (SVG) and press/oshwa/ (PNG).
+
 ## [Unreleased]
 
 ### 2026-09-28
